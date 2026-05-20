@@ -1,0 +1,235 @@
+"""
+COMPARAISON 8 vs 9 features - TOUS LES MODÈLES
+Random Forest, XGBoost, LightGBM
+"""
+
+import psycopg2
+import pandas as pd
+import numpy as np
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import r2_score, mean_absolute_error
+from sklearn.ensemble import RandomForestRegressor
+import warnings
+warnings.filterwarnings('ignore')
+
+print("="*80)
+print("🔬 COMPARAISON 8 vs 9 features - Random Forest, XGBoost, LightGBM")
+print("="*80)
+
+# Configuration
+DB_CONFIG = {
+    "host": "localhost",
+    "port": 5432,
+    "database": "caissatndb",
+    "user": "postgres",
+    "password": "Bouchra1234"
+}
+SCHEMA = "s5831082f95ef4a1eac9a6a8c484faf0a"
+
+# Chargement
+print("\n📂 Chargement des données...")
+conn = psycopg2.connect(**DB_CONFIG)
+sql = f"""
+SELECT 
+    DATE(transaction_date) as date,
+    COUNT(DISTINCT transaction_id) as nb_transactions,
+    SUM(line_total) as revenue,
+    AVG(sold_price) as avg_price,
+    EXTRACT(DOW FROM DATE(transaction_date)) as day_of_week,
+    EXTRACT(MONTH FROM DATE(transaction_date)) as month,
+    MAX(is_ramadan) as is_ramadan
+FROM {SCHEMA}.pos_analytics
+WHERE is_refund = false
+GROUP BY DATE(transaction_date)
+ORDER BY date
+"""
+df = pd.read_sql(sql, conn)
+conn.close()
+
+df['date'] = pd.to_datetime(df['date'])
+df['is_weekend'] = (df['day_of_week'] >= 4).astype(int)
+
+# Features
+df['sales_per_transaction'] = df['revenue'] / df['nb_transactions']
+df['revenue_lag_1'] = df['revenue'].shift(1)
+df['revenue_lag_7'] = df['revenue'].shift(7)
+df['revenue_ma_7'] = df['revenue'].rolling(7).mean()
+df = df.replace([np.inf, -np.inf], 0).fillna(0)
+
+print(f"✅ {len(df)} jours chargés")
+
+# ============================================================================
+# DÉFINITION DES CONFIGURATIONS
+# ============================================================================
+features_8 = [
+    'nb_transactions', 'avg_price', 'sales_per_transaction',
+    'day_of_week', 'is_weekend', 'month',
+    'revenue_lag_1', 'revenue_ma_7'
+]
+
+features_9 = features_8 + ['revenue_lag_7']
+
+print(f"\n📊 Configurations:")
+print(f"   8 features: {len(features_8)}")
+print(f"   9 features: {len(features_9)}")
+
+# ============================================================================
+# FONCTION D'ÉVALUATION
+# ============================================================================
+def evaluate_model(features, df, model_name, model):
+    """Évalue un modèle sur une configuration de features"""
+    
+    X = df[features].values
+    y = df['revenue'].values
+    
+    split = int(len(X) * 0.8)
+    X_train, X_test = X[:split], X[split:]
+    y_train, y_test = y[:split], y[split:]
+    
+    scaler = StandardScaler()
+    X_train_s = scaler.fit_transform(X_train)
+    X_test_s = scaler.transform(X_test)
+    
+    model.fit(X_train_s, y_train)
+    y_pred = model.predict(X_test_s)
+    
+    r2 = r2_score(y_test, y_pred)
+    mae = mean_absolute_error(y_test, y_pred)
+    mape = np.mean(np.abs((y_test - y_pred) / y_test)) * 100
+    
+    return {
+        'model': model_name,
+        'features': len(features),
+        'r2': r2,
+        'mae': mae,
+        'mape': mape
+    }
+
+# ============================================================================
+# MODÈLES À TESTER
+# ============================================================================
+print("\n🔄 Entraînement des modèles...")
+
+results = []
+
+# 1. Random Forest
+print("\n   🌲 Random Forest...")
+rf = RandomForestRegressor(
+    n_estimators=300, max_depth=15, min_samples_split=5,
+    min_samples_leaf=2, random_state=42, n_jobs=-1
+)
+results.append(evaluate_model(features_8, df, "RF", rf))
+results.append(evaluate_model(features_9, df, "RF", rf))
+
+# 2. XGBoost
+try:
+    import xgboost as xgb
+    print("   🚀 XGBoost...")
+    xgb_model = xgb.XGBRegressor(
+        n_estimators=300, learning_rate=0.05, max_depth=6,
+        subsample=0.8, colsample_bytree=0.8, random_state=42, verbosity=0
+    )
+    results.append(evaluate_model(features_8, df, "XGB", xgb_model))
+    results.append(evaluate_model(features_9, df, "XGB", xgb_model))
+except ImportError:
+    print("   ❌ XGBoost non installé")
+
+# 3. LightGBM
+try:
+    import lightgbm as lgb
+    print("   ⚡ LightGBM...")
+    lgb_model = lgb.LGBMRegressor(
+        n_estimators=300, learning_rate=0.05, num_leaves=31,
+        subsample=0.8, colsample_bytree=0.8, random_state=42, verbose=-1
+    )
+    results.append(evaluate_model(features_8, df, "LGB", lgb_model))
+    results.append(evaluate_model(features_9, df, "LGB", lgb_model))
+except ImportError:
+    print("   ❌ LightGBM non installé")
+
+# ============================================================================
+# AFFICHAGE DES RÉSULTATS
+# ============================================================================
+print("\n" + "="*80)
+print("📊 TABLEAU COMPARATIF 8 vs 9 features")
+print("="*80)
+
+# Créer un DataFrame
+results_df = pd.DataFrame(results)
+
+# Pivoter pour comparer 8 vs 9 features
+pivot_r2 = results_df.pivot(index='model', columns='features', values='r2')
+pivot_mape = results_df.pivot(index='model', columns='features', values='mape')
+pivot_mae = results_df.pivot(index='model', columns='features', values='mae')
+
+print("\n" + "="*80)
+print("📊 R² SCORE")
+print("="*80)
+print(pivot_r2.round(4))
+
+print("\n" + "="*80)
+print("📊 MAPE (%)")
+print("="*80)
+print(pivot_mape.round(2))
+
+# ============================================================================
+# GAINS PAR MODÈLE
+# ============================================================================
+print("\n" + "="*80)
+print("📈 GAIN APRÈS AJOUT DE revenue_lag_7")
+print("="*80)
+
+for model in pivot_r2.index:
+    r2_8 = pivot_r2.loc[model, 8]
+    r2_9 = pivot_r2.loc[model, 9]
+    mape_8 = pivot_mape.loc[model, 8]
+    mape_9 = pivot_mape.loc[model, 9]
+    
+    gain_r2 = r2_9 - r2_8
+    gain_mape = mape_8 - mape_9
+    
+    print(f"\n{model}:")
+    print(f"   R²     : {r2_8:.4f} → {r2_9:.4f} (gain: {gain_r2:+.4f})")
+    print(f"   MAPE   : {mape_8:.2f}% → {mape_9:.2f}% (gain: {gain_mape:+.2f}%)")
+    
+    if gain_r2 > 0.005:
+        print(f"   ✅ AJOUTER revenue_lag_7 - Amélioration significative")
+    elif gain_r2 > 0:
+        print(f"   ✅ AJOUTER revenue_lag_7 - Légère amélioration")
+    else:
+        print(f"   ❌ NE PAS AJOUTER revenue_lag_7")
+
+# ============================================================================
+# CLASSEMENT DES MODÈLES (9 features)
+# ============================================================================
+print("\n" + "="*80)
+print("🏆 CLASSEMENT DES MODÈLES (9 features)")
+print("="*80)
+
+best_models = results_df[results_df['features'] == 9].sort_values('r2', ascending=False)
+
+for i, row in best_models.iterrows():
+    print(f"   {row['model']}: R²={row['r2']:.4f} | MAPE={row['mape']:.2f}%")
+
+best_model = best_models.iloc[0]
+print(f"\n🏆 MEILLEUR MODÈLE: {best_model['model']}")
+print(f"   R² = {best_model['r2']:.4f} | MAPE = {best_model['mape']:.2f}%")
+
+# ============================================================================
+# CONCLUSION FINALE
+# ============================================================================
+print("\n" + "="*80)
+print("📝 CONCLUSION")
+print("="*80)
+
+avg_gain_r2 = (pivot_r2[9] - pivot_r2[8]).mean()
+print(f"\n   Gain R² moyen (tous modèles): {avg_gain_r2:+.4f}")
+
+if avg_gain_r2 > 0.005:
+    print("\n   ✅ RECOMMANDATION: UTILISER 9 FEATURES (avec revenue_lag_7)")
+    print("   → Amélioration significative sur tous les modèles")
+else:
+    print("\n   ⚠️ RECOMMANDATION: GARDER 8 FEATURES")
+    print("   → Gain marginal, simplicité préférable")
+
+print("\n✅ Test terminé!")

@@ -1,0 +1,597 @@
+product_id,product_name,current_stock,min_stock,max_stock,rupture_day,days_to_rupture,predicted_daily_demand,recommended_order,priority
+c0bb67e0-75ff-47a8-9dd0-b6c6f05c76bd,Boisson lactée Délisso goût chocolat,4,5,1000,2026-05-01,1,0.75,1002,🔴 CRITIQUE
+4e6b45d5-0b89-45f9-b5ef-62b991bd5d27,Boisson au jus Energy Cocktail,6,5,1000,2026-05-01,1,1.12,1002,🔴 CRITIQUE
+b4f27e0e-a65b-4357-bbdb-b65dee510def,Boisson au jus Bravo,3,5,1000,2026-05-01,1,0.99,1004,🔴 CRITIQUE
+054750ea-3d5d-4763-ab08-37baac04ce81,BOGA cidre,4,5,1000,2026-05-01,1,0.58,1000,🔴 CRITIQUE
+e1e7243a-09ec-4e5f-b34f-5a7a2a0f52e8,Cacahuètes au paprika,3,5,1000,2026-05-01,1,0.78,1003,🔴 CRITIQUE
+cc3e0e67-bdd8-4ba9-a094-e1bac1abda4c,Cheese cake surgelé caramel FINO,5,5,1000,2026-05-01,1,0.82,1001,🔴 CRITIQUE
+bb5f2e7a-aa07-400c-90a1-4c5e79e5acc4,APLA pomme,2,5,1000,2026-05-01,1,0.63,1003,🔴 CRITIQUE
+65e69fd9-8152-4305-8549-7da3700b2e64,Eau gazéifiée  pêche Déli'O,3,5,1000,2026-05-01,1,1.03,1005,🔴 CRITIQUE
+06b4d34c-6623-4e3b-9295-0e99ce84d4cc,Eau minérale 250ml DELICE,5,5,1000,2026-05-01,1,0.93,1002,🔴 CRITIQUE
+b78147c8-c847-452b-a719-351fd4eb9852,APLA pomme,5,5,1000,2026-05-01,1,0.7,1000,🔴 CRITIQUE
+d871e61c-f259-4981-bf55-9012e38f6e47,Boisson au jus cocktail,5,5,1000,2026-05-01,1,0.9,1002,🔴 CRITIQUE
+66fedf87-b91f-43ea-93f3-b4529935f621,Boisson lactée  tropical multivitaminé Danao,0,5,1000,2026-05-01,1,0.76,1006,🔴 CRITIQUE
+6987f900-84af-40b3-ba8c-8129f08de7e3,Boisson au jus Relax,4,5,1000,2026-05-01,1,0.86,1002,🔴 CRITIQUE
+7d273da9-b4c9-43b5-a279-582ad69b2dd7,Eau minérale  AQUALINE 0.5L,4,5,1000,2026-05-01,1,0.94,1003,🔴 CRITIQUE
+a24f7191-0a57-40fe-9011-68766050903f,Eau gazéifiée pomme  Déli'O,4,5,1000,2026-05-01,1,0.79,1002,🔴 CRITIQUE
+a7b65595-5b75-447f-8887-0ad08048e579,Biscuit P'tit Matin aux céréales complètes,4,5,1000,2026-05-01,1,0.58,1000,🔴 CRITIQUE
+fab3209e-44c9-4e75-8eca-3f95a4d1510f,Barre Energy avec orange,3,5,1000,2026-05-01,1,0.72,1002,🔴 CRITIQUE
+36cf7018-b4b3-443d-a583-d413d9005795,Biscuits Crêpes au chocolat Crêpes d'or,4,5,1000,2026-05-01,1,0.79,1002,🔴 CRITIQUE
+50240657-d7f6-45d8-ab2f-161cb7a24d23,Biscuit Oreo original,4,5,1000,2026-05-01,1,0.83,1002,🔴 CRITIQUE
+fb5868ef-6925-47a8-aaa6-6fde25a37378,Biscuits Oreo enrobés de chocolat,1,5,1000,2026-05-01,1,0.91,1006,🔴 CRITIQUE
+4298605e-9916-4a4d-a936-e55afbb783ed,Brownies noisette,3,5,1000,2026-05-01,1,0.71,1002,🔴 CRITIQUE
+fa116230-f0ef-452d-bf8c-89f7ecf710ec,Boisson lactée Nati pêche abricot,5,5,1000,2026-05-01,1,0.8,1001,🔴 CRITIQUE
+183f1b6b-3035-4e3a-a38f-2b66d3da7953,Biscuit long sans sucre aux amandes,4,5,1000,2026-05-01,1,0.68,1001,🔴 CRITIQUE
+a65214ff-fef2-4d03-845d-5213fb014770,Barre de chocolat aux noisettes,4,5,1000,2026-05-01,1,0.85,1002,🔴 CRITIQUE
+6b29bd0a-f81d-4828-8b40-1150b0bbc06e,Yaourt à boire Vit'up cheesecake,4,5,1000,2026-05-01,1,0.71,1001,🔴 CRITIQUE
+6a96b4a9-3b5d-4a60-8dec-5e800a986e7d,Cheese cake,5,5,1000,2026-05-01,1,0.69,1000,🔴 CRITIQUE
+0c0dccec-5cef-462b-8664-2e239cdd066b,Barres de sésame SUN,6,10,1000,2026-05-01,1,0.65,999,🔴 CRITIQUE
+3c2742d4-66a9-4af0-b6c8-273ba5665dcc,Crème dessert à boire choco-nuts Plaisir,4,5,1000,2026-05-01,1,0.63,1001,🔴 CRITIQUE
+dbf84894-65c4-40b4-bc45-428ff227d7cd,BOGA Mojito,0,5,1000,2026-05-01,1,0.57,1004,🔴 CRITIQUE
+7f45ebbe-f696-4700-84a5-29deeac04ce0,Bonbons Chamallows pink & white,5,5,1000,2026-05-01,1,0.69,1000,🔴 CRITIQUE
+76501a23-8e63-4527-ad51-de1eed17c60a,APLA pomme,3,5,1000,2026-05-01,1,0.65,1002,🔴 CRITIQUE
+420609d4-ac88-4cc5-af2e-70a9d52ccc02,BOGA cidre light,3,5,1000,2026-05-01,1,0.69,1002,🔴 CRITIQUE
+c9b96f3f-0925-45a5-bb12-3113754d4c4d,Barre de chocolat Monster Junior,4,5,1000,2026-05-01,1,0.7,1001,🔴 CRITIQUE
+59821c91-17b0-4003-8b74-7ca1a891e2f2,Gaufrettes Chocotom chocolat,5,5,1000,2026-05-01,1,0.86,1001,🔴 CRITIQUE
+d5b1695e-41f5-4933-89e6-c2dbfd4fc588,BOGA fruits rouges,1,5,1000,2026-05-01,1,0.65,1004,🔴 CRITIQUE
+c2f80402-5b79-4a5e-a707-0315c73dcc81,Boisson lactée Wakeup goût chocolat,6,5,1000,2026-05-02,2,0.78,1001,🔴 CRITIQUE
+e0258787-5c97-4afa-b5fa-f13868d3b5f7,APLA pomme,6,5,1000,2026-05-02,2,0.7,1000,🔴 CRITIQUE
+e6f7c9a8-ea7f-4f14-8116-2b8d2991a03e,Barre protéinée Go On cacao cerise,6,5,1000,2026-05-02,2,0.81,1001,🔴 CRITIQUE
+452769b9-dd83-4ebd-aac2-6e0a073046f6,Boisson au jus Cocktail,6,5,1000,2026-05-02,2,0.84,1001,🔴 CRITIQUE
+687f76b5-26ad-4551-bcac-d7ae087e51e6,Yaourt brassé abricot Ptit'Top,6,5,1000,2026-05-02,2,0.74,1000,🔴 CRITIQUE
+824b4ade-d2f0-4a89-98b1-a702f13337cd,Crème dessert Danette flan caramel,6,5,1000,2026-05-02,2,0.99,1002,🔴 CRITIQUE
+1e192d67-a7f5-46f9-92d3-bccbe37c0cc9,Barre de chocolat caramel et biscuit,6,5,1000,2026-05-02,2,0.96,1002,🔴 CRITIQUE
+ab96dc49-7e09-473e-94ae-7e0b813e0c3f,Beurre extra fin,6,5,1000,2026-05-02,2,0.58,999,🔴 CRITIQUE
+7929acc6-eae3-469d-bbc3-147190d76d3b,Eau gazéifiée poire  Déli'O,6,5,1000,2026-05-02,2,0.96,1002,🔴 CRITIQUE
+d97dd763-8d80-4a91-b484-a8321dda9d27,BOGA cidre,6,5,1000,2026-05-02,2,0.7,1000,🔴 CRITIQUE
+fc1203e0-679f-4e40-8656-dff204942d50,Eau minérale VIVIAN 2L,6,5,1000,2026-05-02,2,0.85,1001,🔴 CRITIQUE
+bb81a576-2374-4338-b27f-f219d4ef5967,Barre de chocolat Twix,6,5,1000,2026-05-02,2,0.96,1002,🔴 CRITIQUE
+eed8d7d3-c103-4446-8f3f-d7917565713a,Eau gazéifiée  menthe Déli'O,7,5,1000,2026-05-03,3,0.97,1002,🔴 CRITIQUE
+80a90458-3c99-4d77-8086-91e4d738462f,Barre protéinée Go On cacao vanille,7,5,1000,2026-05-03,3,0.92,1002,🔴 CRITIQUE
+610809aa-4b9e-4bbd-b0fe-077cd8683376,Yaourt  aromatisé citron,7,5,1000,2026-05-03,3,0.76,1000,🔴 CRITIQUE
+507ba24b-f2e7-4402-b6fe-2ecb69ef2ea7,Boisson au jus tropical Bnino,7,5,1000,2026-05-03,3,0.74,1000,🔴 CRITIQUE
+b01842aa-0551-4b27-9242-26b256fc8d1d,Yaourt nature sans sucre,7,5,1000,2026-05-03,3,0.68,999,🔴 CRITIQUE
+83f55e59-c020-4569-8ff4-bc3e8ae6e553,Fraise déshydratée 100% naturel,7,5,1000,2026-05-03,3,0.68,999,🔴 CRITIQUE
+0c230ce2-59d7-4f84-9d73-3ff97ec696e6,Bonbons Ananassa,7,5,1000,2026-05-03,3,0.75,1000,🔴 CRITIQUE
+e7cf79c8-c315-4dde-ab9e-e1c2e93d77fe,Boisson au jus cocktail de fruits,7,5,1000,2026-05-03,3,0.76,1000,🔴 CRITIQUE
+17f9db6d-9025-48b8-8f25-e991a9eb30f8,Barre de chocolat fourrés aux arachides,7,5,1000,2026-05-03,3,0.89,1001,🔴 CRITIQUE
+e0412f17-225c-4850-bae9-9163d0b1b7a6,BOGA lim,7,5,1000,2026-05-03,3,0.69,999,🔴 CRITIQUE
+59ec708e-4cb5-4cc1-a9af-5595be5e1a82,Biscuit chocolat fourré à la crème de lait Go-on,7,5,1000,2026-05-03,3,0.9,1001,🔴 CRITIQUE
+4d405f8d-969b-4986-a7da-957e97cf12db,Boisson au jus,7,5,1000,2026-05-03,3,0.96,1002,🔴 CRITIQUE
+3bccc6f8-e17f-4bca-87f3-53f440baa76a,Crème dessert Plaisir zgougou,7,5,1000,2026-05-04,4,0.66,1000,🟠 URGENT
+65353d84-58f9-4a83-976e-33faf89fcd10,Crème dessert Danette à la pistache,7,5,1000,2026-05-04,4,0.66,1000,🟠 URGENT
+f0ce3849-29d1-4986-acd8-3f2604626f97,Madeleines,7,5,1000,2026-05-04,4,0.69,1000,🟠 URGENT
+9386cb5c-e931-4ad0-b376-ecaca1b13f38,Barre de chocolat caramel & biscuit,8,5,1000,2026-05-04,4,0.79,1000,🟠 URGENT
+b3035212-77da-48e8-87ab-4ac02bc8b13b,Aliment au foie de bœuf pour chats,7,5,1000,2026-05-04,4,0.63,999,🟠 URGENT
+5e6c56aa-484d-458b-92cb-8d563eb8a980,Barrette de chocolat au lait et aux noisettes,8,5,1000,2026-05-04,4,0.82,1000,🟠 URGENT
+d9fa3ff7-aa70-4952-a4c6-63c340a9a710,Eau gazéifiée  fraise Déli'O,7,5,1000,2026-05-04,4,0.65,1000,🟠 URGENT
+d1f7cc2a-2d53-44e0-a118-c46a247386ef,Boisson lactée  vanille Délisso,8,5,1000,2026-05-04,4,0.91,1001,🟠 URGENT
+2a6f92de-c642-4813-8291-bcdb1b4fbf4e,Crème dessert Plaisir caramel chocolat,8,5,1000,2026-05-04,4,1.02,1003,🟠 URGENT
+b708b041-8b7d-434b-9ba9-6b9ad077f227,Cacahuètes peanut classic,7,5,1000,2026-05-04,4,0.65,1000,🟠 URGENT
+3ea8348f-bb51-46c8-9683-8fe1bd8fa9e3,Crème dessert Le Grand Dessert,7,5,1000,2026-05-04,4,0.67,1000,🟠 URGENT
+f511540d-c311-4595-a28d-53af34951952,Boisson énergétique Red Bull 25cl,7,5,1000,2026-05-04,4,0.64,999,🟠 URGENT
+29ad95e4-de36-4a1a-8e1f-7587d7837638,Boisson au jus coktail de fruits,8,5,1000,2026-05-04,4,1.03,1003,🟠 URGENT
+11cb939e-89f6-42c2-ba71-c5e45fe7f054,Boisson au jus cocktail de fruits Float,8,5,1000,2026-05-04,4,0.91,1001,🟠 URGENT
+29730698-f039-4b0c-a94f-66edbaaea5e9,Boisson au jus d'ananas,9,5,1000,2026-05-04,4,1.06,1002,🟠 URGENT
+e3e1a43f-f038-43f4-88be-8c73dc85321e,Cacahuètes au caramel,8,5,1000,2026-05-04,4,0.87,1001,🟠 URGENT
+1a8da7ab-6612-4f6f-ae04-e457f661ee9d,BOGA cidre,7,5,1000,2026-05-04,4,0.67,1000,🟠 URGENT
+e204ebec-5249-4745-9a52-106fd2e0fbe8,Biscuits Fibrextra,8,5,1000,2026-05-05,5,0.68,1000,🟠 URGENT
+99d0e0b5-5b63-4a47-82e2-2d4c252a79bf,BOGA pêche abricot,8,5,1000,2026-05-05,5,0.66,999,🟠 URGENT
+c84072c3-f566-44e4-80d3-ca4068876d93,Barrette de chocolat au lait,9,5,1000,2026-05-05,5,0.89,1001,🟠 URGENT
+9ed7ecfe-4b48-412e-882a-bb0442443514,Boisson au jus cocktail de fruits,9,5,1000,2026-05-05,5,0.95,1002,🟠 URGENT
+9f3be72a-2e32-4602-88fa-b82ed2c83827,Crème dessert 2+1 Gratuit,8,5,1000,2026-05-05,5,0.77,1001,🟠 URGENT
+d0db5228-15af-4aa9-ab77-c2dd041072b3,Crème dessert Plaisir chocolat,9,5,1000,2026-05-05,5,1.02,1003,🟠 URGENT
+ef1ccb63-eebd-4b4b-adad-5b1d59a6a4d4,Eau gazéifiée JEKTISS 0.5L,9,5,1000,2026-05-05,5,1.01,1002,🟠 URGENT
+dc13e15f-4167-4c43-a90d-e556f33426bb,Barre de chocolat Energy 5 seeds avec du miel,9,5,1000,2026-05-05,5,0.95,1002,🟠 URGENT
+d971b58b-1c00-4202-a1a9-86ed53c8f79c,Barre de chocolat Triple Choc,9,5,1000,2026-05-05,5,1.0,1002,🟠 URGENT
+a0cb0c29-8d24-4092-80bd-0c1f5915cc9f,Fromage frais nature Rondelé,8,5,1000,2026-05-05,5,0.69,1000,🟠 URGENT
+8ba83fb3-11dc-4a0f-832a-9fbd08c0e94b,Mini gaufrettes vanille,9,5,1000,2026-05-05,5,0.95,1002,🟠 URGENT
+78c26e61-6b14-40fc-a832-e677c8a42831,Biscuits Major chocolat,9,5,1000,2026-05-05,5,0.89,1001,🟠 URGENT
+9ec92722-c266-4b4c-83cd-446e410fcf24,Crème dessert Dolce chocolat,9,5,1000,2026-05-05,5,0.92,1001,🟠 URGENT
+4595b1cf-a3f4-4e64-976a-3639d5809471,Pack de yaourts aromatisés fraise & vanille,9,5,1000,2026-05-05,5,0.9,1001,🟠 URGENT
+23674c22-344e-45ad-88f6-c5f54c74eced,Biscuits Pick Up mini choco,8,5,1000,2026-05-05,5,0.72,1000,🟠 URGENT
+2e639778-69a4-4bcc-92d7-7684633581c7,Eau minérale PRIMAQUA 6L,9,5,1000,2026-05-05,5,0.85,1001,🟠 URGENT
+7e658495-a94d-4995-9277-3c92db8bdab4,Break barre génoise caramel,9,5,1000,2026-05-05,5,0.85,1001,🟠 URGENT
+2eaf7998-b1de-45a3-b58e-f953cc144584,Yaourt bifi 0% aux morceaux de fraise,10,5,1000,2026-05-05,5,1.18,1004,🟠 URGENT
+57d751e5-19b4-4845-a914-5276b61d1399,BOGA lim,8,5,1000,2026-05-05,5,0.73,1000,🟠 URGENT
+ba399383-426b-41e9-aa68-d169bb49cc5a,Glace vanille chocolat twin BOULE D'OR,12,5,1000,2026-05-06,6,1.23,1003,🟠 URGENT
+e60b297a-0a43-4bca-a3cb-8d52c80fdec1,Yaourt aromatisé nature,9,5,1000,2026-05-06,6,0.81,1001,🟠 URGENT
+6682240d-5511-44ba-aee9-e8d12a5dfa24,Biscuit mini croquette,9,5,1000,2026-05-06,6,0.79,1001,🟠 URGENT
+8e0df89a-95b9-49d9-8278-c15a8c0de6e9,Biscuits Major vanille,9,5,1000,2026-05-06,6,0.75,1000,🟠 URGENT
+e621de6a-919a-4280-862d-ef94b821dc34,Biscuit aux pépites de chocolat et à l'avoine,9,5,1000,2026-05-06,6,0.74,1000,🟠 URGENT
+721d21ed-2eb0-43b8-aa82-900258f5b803,Barres de chocolat au cacahuète et caramel,11,5,1000,2026-05-06,6,1.07,1002,🟠 URGENT
+c4238f83-59a5-4cde-8704-697f70d03c24,Barre Energy aux noisettes,9,5,1000,2026-05-06,6,0.76,1000,🟠 URGENT
+103fb858-74a4-43cd-824b-bc32635d2129,Lait demi-écrémé U.H.T,11,5,1000,2026-05-06,6,1.04,1002,🟠 URGENT
+15892143-7fa3-4e13-b431-6f01a5812868,Biscuit au chocolat Hoppo,10,5,1000,2026-05-06,6,0.93,1001,🟠 URGENT
+b2b62ef3-216e-46c3-bf90-61e5754d7a55,Biscuit fourré au chocolat,9,5,1000,2026-05-06,6,0.79,1001,🟠 URGENT
+c9f5902d-9ded-4156-9c25-de55509ea1e9,Barre de chocolat Twix X5,10,5,1000,2026-05-06,6,0.88,1001,🟠 URGENT
+fa75cc15-2d98-4d0b-bcfe-d645b0ca8484,Fromage Jockey nature sucré,9,5,1000,2026-05-06,6,0.83,1001,🟠 URGENT
+7bab3d36-cdde-4cbc-b618-bcf229e4453d,Eau gazéifiée  ananas Déli'O,11,5,1000,2026-05-06,6,1.06,1002,🟠 URGENT
+34cc4dfa-cc06-4c8f-86e2-9d2be1cf11a9,Barre de chocolat biscuité,9,5,1000,2026-05-06,6,0.81,1001,🟠 URGENT
+1424f350-422b-4f88-83a9-a3a8de84374c,Biscuits Smile fraise,9,5,1000,2026-05-06,6,0.81,1001,🟠 URGENT
+19eb7ae2-5dd9-4809-bf61-350a559070af,Biscuits Major fraises,9,5,1000,2026-05-06,6,0.76,1000,🟠 URGENT
+603d2b9f-ce67-4eeb-ad11-3484215f5491,Biscuits Pick Up chocolat,10,5,1000,2026-05-06,6,1.01,1002,🟠 URGENT
+a03f310d-03c7-44cb-9691-4c8150833749,Boisson au jus d'orange,11,5,1000,2026-05-06,6,1.06,1002,🟠 URGENT
+93287c63-7e0d-4ae5-a1dc-c094ddb330e4,Biscuit sticks au chocolat Hoxi poxi,11,5,1000,2026-05-06,6,1.12,1003,🟠 URGENT
+e94ae604-f867-4e26-862c-50d2757b5459,Yaourt brassé nature sucré Ptit'Top,8,5,1000,2026-05-06,6,0.58,999,🟠 URGENT
+2c9ad8a5-0800-49e4-92dd-2cd1cfd3529b,Cake format familial orange & pépites de cacao,9,5,1000,2026-05-06,6,0.77,1000,🟠 URGENT
+98b5c7b9-8aca-4bf1-9825-deb5f68e4554,Yaourt brassé aux fruits mixés ananas Suprême,8,5,1000,2026-05-06,6,0.57,999,🟠 URGENT
+18f470c1-75c1-44a9-931b-9b62b1b8361e,Yaourt brassé vanille Ptit'Top,12,5,1000,2026-05-07,7,1.06,1002,🟠 URGENT
+95c9be65-6d24-458e-9fd5-10b298af5cea,Yaourt aromatisé vanille,12,5,1000,2026-05-07,7,1.08,1002,🟠 URGENT
+a1c5b6a6-d68a-496b-a42d-3c0f30cec5d2,Bonbon Rolls fruits,10,5,1000,2026-05-07,7,0.76,1000,🟠 URGENT
+824db04b-c4ce-4d3b-81a0-8348fee82cfc,Crème dessert Danette Liégeois chocolat,10,5,1000,2026-05-07,7,0.78,1000,🟠 URGENT
+c7846f81-26af-4820-921b-5fcbda8e95ed,Crème dessert noisette Dolce,10,5,1000,2026-05-07,7,0.74,1000,🟠 URGENT
+1348d87c-4e3f-4172-9ab3-eb1d07272acd,BOGA mojito,10,5,1000,2026-05-07,7,0.8,1001,🟠 URGENT
+ca0559bf-1220-4bb2-81ae-cbbeb70ff0e4,Gâteau roulé saveur vanille cacao Tornado,13,5,1000,2026-05-07,7,1.18,1003,🟠 URGENT
+679fd844-2ea2-4e32-be69-727f75036bbc,Chocolat Kross fraises,10,5,1000,2026-05-07,7,0.83,1001,🟠 URGENT
+e4e1a326-3a71-4053-835d-28334e85a156,Biscuits Roll Break fraise,9,5,1000,2026-05-07,7,0.67,1000,🟠 URGENT
+a796b753-516c-4bfd-9b01-78fb2eb7783d,Yaourt aromatisé pêche,10,5,1000,2026-05-07,7,0.76,1000,🟠 URGENT
+e75c8d21-dcb3-48c7-b097-063d06e9cf43,Crème fraîche épaisse,9,5,1000,2026-05-07,7,0.65,1000,🟠 URGENT
+5e343d13-76e2-4028-ba6f-ddb823308b22,Yaourt bifi 0% citron,10,5,1000,2026-05-07,7,0.78,1000,🟠 URGENT
+3c57d1ae-a0b5-4d6d-9ee1-575ff6d86dce,Glace familiale fraise Boules d'or,11,5,1000,2026-05-07,7,0.9,1001,🟠 URGENT
+875aeece-a13c-4311-909d-46a97094faeb,Mousse au chocolat Plaisir,10,5,1000,2026-05-07,7,0.76,1000,🟠 URGENT
+831de817-1599-48e6-b4da-eb59d45e6ae9,Yaourt à boire Danup ice fruity,11,5,1000,2026-05-07,7,0.91,1001,🟠 URGENT
+73f3c0c0-52dd-44d9-b00f-b4f8323a8224,Préparation de chocolat chaud banane,12,5,1000,2026-05-07,7,1.07,1002,🟠 URGENT
+3a25ec9a-293b-4bad-bc46-34b972bc185c,Aliments pour chats,10,5,1000,2026-05-07,7,0.75,1000,🟠 URGENT
+d4f6b96f-e98f-4687-8d9c-5f1714d1fb01,Barre Energy avec banane,9,5,1000,2026-05-07,7,0.64,999,🟠 URGENT
+5831ff7d-7654-43b9-9e3d-fcb939ad7bdd,Boisson lactée choco caramel Délishake,10,5,1000,2026-05-07,7,0.84,1001,🟠 URGENT
+bade9bb7-832a-4cd8-9877-76f49b1e793d,Chocolat au lait Kross,10,5,1000,2026-05-07,7,0.8,1001,🟠 URGENT
+2771ef6f-c5a5-4246-ad57-0d0d6512b702,Chips truffe et parmesan,10,5,1000,2026-05-07,7,0.74,1000,🟠 URGENT
+90134749-64bd-42e2-b068-8feba4ad9fa0,Madeleine,9,5,1000,2026-05-07,7,0.65,1000,🟠 URGENT
+d9282c78-00c6-4542-aab1-c0929241abb1,Crème dessert chocolat blanc Dolce,12,5,1000,2026-05-07,7,1.03,1002,🟠 URGENT
+643c0947-a8ef-45fa-85c4-11b729578d4d,Boisson au jus de pomme confort,11,5,1000,2026-05-07,7,1.0,1002,🟠 URGENT
+53311cc2-aff5-4e05-bd20-a5766c9c5ea4,BOGA cidre,10,5,1000,2026-05-07,7,0.8,1001,🟠 URGENT
+e9f70c1d-93aa-4c02-920e-f585b8e25bca,Crème dessert Dolce zgougou,9,5,1000,2026-05-07,7,0.61,999,🟠 URGENT
+1596bb8f-cbda-4e5d-ae6f-cf23b826b084,Boisson frappucino vanille,10,5,1000,2026-05-07,7,0.82,1001,🟠 URGENT
+a59a514f-49d5-4f84-95e7-c26e82b2ad58,Boisson au jus d'ananas,11,5,1000,2026-05-07,7,0.89,1001,🟠 URGENT
+c18f074b-9667-4925-9648-9948db1838e9,Barre de chocolat Junior Monster,10,5,1000,2026-05-07,7,0.84,1001,🟠 URGENT
+236d2e1c-b0c7-45f1-a874-32b12b1fe464,Cake fourré à la crème cacao Adoro,9,5,1000,2026-05-07,7,0.66,1000,🟠 URGENT
+1f87e240-f3bb-48a9-b31f-6ee5f96e2f19,Cake Tranche d’Or au chocolat,11,5,1000,2026-05-07,7,0.89,1001,🟠 URGENT
+59755593-2f29-4149-9119-05533c9d5e38,Boisson au jus de poire,12,5,1000,2026-05-08,8,0.95,1002,🟡 ATTENTION
+9ceb4355-221f-47d5-9f7a-62c24f01b9ef,Beurre extra fin,10,5,1000,2026-05-08,8,0.72,1000,🟡 ATTENTION
+9d4150c0-35ba-4494-80a0-cb1b22ea7426,Chocolat Passion lait noisettes,12,5,1000,2026-05-08,8,0.97,1002,🟡 ATTENTION
+3044db3e-34cd-450e-91fb-8d6cd8d87291,Fromage frais à tartiner Fraidoux,10,5,1000,2026-05-08,8,0.7,1000,🟡 ATTENTION
+276566a1-f2ca-48fe-a0ce-4ea4c14ca0ed,Yaourt à boire Vit'up framboise et cerise,10,5,1000,2026-05-08,8,0.69,1000,🟡 ATTENTION
+158da10f-27e7-4451-a671-29a2e60e9183,Marlboro Touch,10,5,1000,2026-05-08,8,0.74,1000,🟡 ATTENTION
+4fd1d8d9-d936-44b3-b193-85d1040f1b7b,Cacahuètes enrobées au fromage,10,5,1000,2026-05-08,8,0.68,1000,🟡 ATTENTION
+c09fa2bb-1b60-4868-8e53-eb51599d04b9,Chips ail et persil,10,5,1000,2026-05-08,8,0.67,999,🟡 ATTENTION
+14eef83c-87b1-4b08-9ccc-92e489bb7965,Biscuit LOOPI cœur fondant,12,5,1000,2026-05-08,8,0.96,1002,🟡 ATTENTION
+cbb0ddaa-e465-47ee-9a8e-21111a31195b,Barre de chocolat Mars X3,10,5,1000,2026-05-08,8,0.73,1000,🟡 ATTENTION
+85e3813c-6624-4e05-9c89-7cfea45b492c,Chocolat Passion noir fourré orange,11,5,1000,2026-05-08,8,0.78,1000,🟡 ATTENTION
+4b0ead08-368f-426a-a2e3-92a66222fb15,Boisson lactée Danao poire et pêche,11,5,1000,2026-05-08,8,0.81,1000,🟡 ATTENTION
+39179817-2510-4843-95b4-fb5c0333a830,Crème dessert noisette,10,5,1000,2026-05-08,8,0.7,1000,🟡 ATTENTION
+e18e35a7-d912-457b-a8bb-75afa8db6696,Barre protéinée Go On au cacao,11,5,1000,2026-05-08,8,0.8,1000,🟡 ATTENTION
+cffe46e1-336e-4905-a28d-583737b64340,Boisson au jus d'ananas,12,5,1000,2026-05-08,8,0.99,1002,🟡 ATTENTION
+5a792b50-8879-43fe-9df2-36a17e0a7f8f,Yaourt aromatisé banane,11,5,1000,2026-05-08,8,0.82,1001,🟡 ATTENTION
+7c93bfd0-4264-4141-91bd-14f974afa6a0,Yaourt à boire Ptit délice fraise,13,5,1000,2026-05-08,8,1.13,1003,🟡 ATTENTION
+173c1dde-0704-41d5-9483-e213d9c4f015,Eau minérale DÉLICE 1.5L,12,5,1000,2026-05-08,8,1.02,1003,🟡 ATTENTION
+1dcffe82-6f42-4e37-99a4-d9bed0e272ce,Biscuits Tungo chocolat au lait,10,5,1000,2026-05-08,8,0.68,1000,🟡 ATTENTION
+bef07934-b1a6-42ce-97f8-069a702a5867,Yaourt à boire Vit'up poire et caramel,13,5,1000,2026-05-08,8,1.07,1002,🟡 ATTENTION
+bfa7d132-ca7c-442f-91b5-9202a46ca8f2,Assouplissant concentré hypoallergénique,11,5,1000,2026-05-08,8,0.81,1000,🟡 ATTENTION
+b48c72eb-fccc-4a59-95c9-8917ec9c166d,Chocolat lait et dragées,14,5,1000,2026-05-08,8,1.25,1004,🟡 ATTENTION
+3aaa0730-b5fb-4c82-b5bc-21fc6dda7a5b,Barre de crème glacée caramel,12,5,1000,2026-05-08,8,0.91,1001,🟡 ATTENTION
+67f03280-9eb1-42f1-8cd3-595795c4b9a7,Après shampooing 8 en 1 Huile d'argan + Kératine,11,5,1000,2026-05-08,8,0.83,1001,🟡 ATTENTION
+d2073c57-9cac-474c-a907-88084e2e56db,Boisson au jus d'orange,13,5,1000,2026-05-08,8,1.08,1002,🟡 ATTENTION
+a2eac106-3f12-4b95-b546-722a77d8d460,Bonbon Tutti Frutti,11,5,1000,2026-05-08,8,0.81,1000,🟡 ATTENTION
+a9191fb2-d467-4b52-93bd-edde9702bae9,Coudes n°1,11,5,1000,2026-05-08,8,0.77,1000,🟡 ATTENTION
+3372c135-fd48-453b-b574-d0491d3035c9,BOGA cidre,10,5,1000,2026-05-08,8,0.72,1000,🟡 ATTENTION
+351b89ec-b95e-4b23-acb6-4fb332858020,Eau gazéifiée GARCI 1L,13,5,1000,2026-05-08,8,1.12,1003,🟡 ATTENTION
+02178650-d85d-431a-8160-645e28f08451,Gaufrettes Croustina cacao vanille,12,5,1000,2026-05-09,9,0.83,1001,🟡 ATTENTION
+de9fa475-fee8-409e-a954-fad52249599e,Biscuits Smile chocolat,12,5,1000,2026-05-09,9,0.81,1000,🟡 ATTENTION
+cf54c24e-0152-4ed3-9a92-3ffdbf800c17,Eau minérale TIJEN 1.5L,13,5,1000,2026-05-09,9,1.01,1002,🟡 ATTENTION
+93e052f6-6c5d-4acb-ba41-c0e6931dd407,Bonbon Rolls rainbow,11,5,1000,2026-05-09,9,0.72,1000,🟡 ATTENTION
+2a894eec-4714-4b42-9b7d-aa9ac86f2434,Bonbons,11,5,1000,2026-05-09,9,0.75,1000,🟡 ATTENTION
+dbccdd6c-94bf-4f89-b929-6479b4a2cf31,Yaourt aromatisé fraise,10,5,1000,2026-05-09,9,0.61,999,🟡 ATTENTION
+e85db210-bf70-45df-8334-67b445e6bbcf,Crème dessert Danette vanille,12,5,1000,2026-05-09,9,0.82,1000,🟡 ATTENTION
+feac63f5-f751-4e9c-83e7-939fac522dbc,Assouplissant concentré à diluer Sensitive,12,5,1000,2026-05-09,9,0.82,1000,🟡 ATTENTION
+d5b7ba11-16f1-41d5-a6d2-40a178bd5e7c,Chips saveur romarin,12,5,1000,2026-05-09,9,0.84,1001,🟡 ATTENTION
+ba97bb5d-7354-4bb5-8a71-2ff6996187fc,Eau minérale PALMA 2L,13,5,1000,2026-05-09,9,0.93,1001,🟡 ATTENTION
+32b56134-ad1f-4203-b1ed-c3a8a2515865,"Biscuits Cajou , pistache et avoine",11,5,1000,2026-05-09,9,0.7,1000,🟡 ATTENTION
+c491bc35-e866-48e6-a0e6-424e0822b896,Yaourt brassé Granola Chocolat Mix & Go Blendy,12,5,1000,2026-05-09,9,0.89,1002,🟡 ATTENTION
+ca91a649-03ea-4dd8-8c32-ec5a4ba719f0,Crème dessert Dolce Duo chocolat noisette,12,5,1000,2026-05-09,9,0.87,1001,🟡 ATTENTION
+b9903937-dc4a-408a-8186-560f17b0a3d4,Jambon de dinde fumé,11,5,1000,2026-05-09,9,0.73,1000,🟡 ATTENTION
+11c27552-4120-4dd1-abfc-f477ea90e9c8,Boisson lactée goût chocolat Laitgo,12,5,1000,2026-05-09,9,0.88,1001,🟡 ATTENTION
+b6ea37d8-96cc-4d96-afce-59f6d7e8fffd,BOGA menthe,11,5,1000,2026-05-09,9,0.71,1000,🟡 ATTENTION
+e2c1b3c7-4000-4da7-aede-82b9909bf09d,BOGA mojito,12,5,1000,2026-05-09,9,0.85,1001,🟡 ATTENTION
+a9c6b343-5529-4fad-b43c-7c30e3ec595f,Lot de 4 tablettes chocolat,12,5,1000,2026-05-09,9,0.89,1001,🟡 ATTENTION
+cb2470eb-1f64-48a8-b08e-e807261a198c,Boisson Gazeuse Citron,11,5,1000,2026-05-09,9,0.75,1000,🟡 ATTENTION
+2c91c8a5-a26e-4532-8547-6d9883185bea,Biscuits Major cacao & lait,13,5,1000,2026-05-09,9,0.99,1002,🟡 ATTENTION
+a02e86c6-f9e1-411d-ac89-df137ec43f37,Boisson au jus tropical Bnino,15,5,1000,2026-05-09,9,1.2,1003,🟡 ATTENTION
+da02f228-7966-4674-8f77-7ab6751bf77e,Flan dessert,11,5,1000,2026-05-09,9,0.69,999,🟡 ATTENTION
+6a7a97ff-630e-4828-83dc-e8ddd135648a,Bruschette chips à l'ail,11,5,1000,2026-05-09,9,0.74,1000,🟡 ATTENTION
+67e494cb-ac94-4ca4-970e-e5dce4facfc4,Amandes de montagne Bio,11,5,1000,2026-05-09,9,0.75,1000,🟡 ATTENTION
+255dfc5f-ec05-4380-8a1a-f3d710b6fcaf,Eau minérale  SAFIA 1.5L,13,5,1000,2026-05-10,10,0.85,1001,🟡 ATTENTION
+5e4a5f81-3ab6-4dd8-a7d9-2ac44bd435c4,Dentifrice Blancheur Sublime,15,5,1000,2026-05-10,10,1.03,1002,🟡 ATTENTION
+f2e0b417-c80b-4b2c-b4dd-b2c93b9b7feb,Ice tea rouge,13,5,1000,2026-05-10,10,0.84,1001,🟡 ATTENTION
+8754d10e-6723-4300-9d05-2a7d7eb29a01,Yaourt aromatisé vanille,15,5,1000,2026-05-10,10,1.08,1003,🟡 ATTENTION
+3410c7cd-4dd1-4c26-b995-108d5f1dda18,Coquillettes,12,5,1000,2026-05-10,10,0.72,1000,🟡 ATTENTION
+85c4624e-14db-4dec-a7c9-0fcae6a22fa8,Boisson au jus tropical Fruzzy,16,5,1000,2026-05-10,10,1.25,1004,🟡 ATTENTION
+f3a27c65-2530-4268-b319-7b7903ff2369,Eau minérale DENYA 2.25L,14,5,1000,2026-05-10,10,0.93,1001,🟡 ATTENTION
+b9df3db5-c229-4c8c-b3fa-3f61b7e3043e,Eau gazéifiée GARCI 0.5L,14,5,1000,2026-05-10,10,1.01,1002,🟡 ATTENTION
+5387b131-44ff-4316-ae5a-56b5218a3b6f,Fromage Gorgonzola,13,5,1000,2026-05-10,10,0.87,1001,🟡 ATTENTION
+beeee95f-19d6-4528-9115-328b7d6c4df1,Cake fourré à la crème cacao Adoro,12,5,1000,2026-05-10,10,0.77,1000,🟡 ATTENTION
+8323390c-46e0-490a-a7e3-0af608ebf6e3,Eau gazéifiée  JEKTISS 1L,13,5,1000,2026-05-10,10,0.86,1001,🟡 ATTENTION
+d0e5a2da-bc9c-40ce-9d85-17374598e974,Biscuit fourrés OXO black,12,5,1000,2026-05-10,10,0.74,1000,🟡 ATTENTION
+174000e3-fba1-496a-a975-17e9c708954e,Fromage fondu au cheddar,12,5,1000,2026-05-10,10,0.76,1000,🟡 ATTENTION
+6dea0efa-f200-45f8-8a1e-d37371b08de9,Biscuits Leibniz choco lait,14,5,1000,2026-05-10,10,0.93,1001,🟡 ATTENTION
+9e81d0dd-a04e-475f-934b-e118004c08f9,Biscuits fenouil,11,5,1000,2026-05-10,10,0.64,999,🟡 ATTENTION
+2c842074-364b-4379-8b66-7f2065091f54,Boisson au jus d'orange Float,14,5,1000,2026-05-10,10,1.03,1003,🟡 ATTENTION
+d22d5aaa-4e25-4a5a-a68b-764c5bef17a4,Boisson au jus nectar d'ananas,14,5,1000,2026-05-10,10,0.96,1002,🟡 ATTENTION
+00a1f7d6-21d2-48bc-be80-0d8876ca224a,Glace café vanille,17,5,1000,2026-05-10,10,1.25,1003,🟡 ATTENTION
+1e37e8a8-79ef-4e96-8f98-43b6063fc6bf,BOGA menthe,12,5,1000,2026-05-10,10,0.72,1000,🟡 ATTENTION
+782bbb34-998f-48a0-aa6e-ea9ae6e951db,Blondies fourrés caramel,13,5,1000,2026-05-10,10,0.87,1001,🟡 ATTENTION
+10764989-26de-4bf8-b2ee-bde0c6cde7aa,Lot de biscuits enrobés de chocolat,14,5,1000,2026-05-10,10,0.98,1002,🟡 ATTENTION
+66d3852e-51e2-4970-b18c-9d26f1e0ed1b,Champignon émincés,13,5,1000,2026-05-10,10,0.85,1001,🟡 ATTENTION
+65d32cec-514c-4df9-a4b5-a41574d07c0b,Eau Minerale 1.65 L,14,5,1000,2026-05-10,10,0.99,1002,🟡 ATTENTION
+260fbbd2-1702-490b-8467-d2903cf7ad3d,Café  turc pur,13,5,1000,2026-05-10,10,0.91,1002,🟡 ATTENTION
+85afc6ab-e89b-4741-8b04-99532c57c38f,Gaufrettes fourrées au lait Gofd'or,14,5,1000,2026-05-10,10,1.01,1002,🟡 ATTENTION
+6daaee5e-623a-4520-aacc-f7d1ed8bf4b3,Chocolat au lait,13,5,1000,2026-05-10,10,0.83,1000,🟡 ATTENTION
+8968ddb8-2236-4ab3-be08-6763d8b4b0e7,Eau minérale AQUALINE 2L,15,5,1000,2026-05-10,10,1.03,1002,🟡 ATTENTION
+9431e2ba-a371-48d7-9c3d-042c30574f28,FANTA pomme,15,5,1000,2026-05-10,10,1.04,1002,🟡 ATTENTION
+6b782209-94e6-4a7d-816d-ca38e4da1a58,Fromage fondu sucette Fromagy,12,5,1000,2026-05-10,10,0.72,1000,🟡 ATTENTION
+0cbb8530-387d-43c6-b389-fd611de99a75,Glace vanille fraise,17,5,1000,2026-05-10,10,1.32,1005,🟡 ATTENTION
+6cd4b555-63f2-4379-96a6-a11170827ca9,Crème dessert chocolat,13,5,1000,2026-05-10,10,0.91,1002,🟡 ATTENTION
+92fc0b89-d56d-453f-b682-759c4dbb42e4,COCA COLA zéro,15,5,1000,2026-05-10,10,1.02,1002,🟡 ATTENTION
+29b561be-c999-429b-b739-c8415c4adaa6,Boisson frappucino cookies et cream,13,5,1000,2026-05-11,11,0.8,1001,🟡 ATTENTION
+bcf0e483-20a5-4b96-ad56-41d8eefbe64c,Boisson au jus d'orange,15,5,1000,2026-05-11,11,0.99,1002,🟡 ATTENTION
+35cffb86-51b7-4ecc-916f-0c544bb2244f,Boisson lactée pomme et poire,13,5,1000,2026-05-11,11,0.78,1000,🟡 ATTENTION
+167d1cbd-7d94-41d5-a75b-84e8eb478e00,Biscuit P'tit Matin pure beurre,12,5,1000,2026-05-11,11,0.68,1000,🟡 ATTENTION
+f23f6c82-67da-41d2-bb6c-847867c18c0a,FANTA citron,15,5,1000,2026-05-11,11,0.97,1002,🟡 ATTENTION
+83d96aa9-ea50-45ac-9f70-3f3b5022d6a6,Aliments complets pour chiens,14,5,1000,2026-05-11,11,0.86,1001,🟡 ATTENTION
+94ad6b10-2f31-4163-8745-9f0ca212ce8e,COCA COLA 24cl,16,5,1000,2026-05-11,11,1.06,1002,🟡 ATTENTION
+8e181ca7-9866-4431-a3cd-ed2b6c635901,Chips cheddar et oignon Cheesy,11,5,1000,2026-05-11,11,0.59,999,🟡 ATTENTION
+e4da8827-8ca0-4d13-bd99-d16ddc6ee431,Jambon de poulet,13,5,1000,2026-05-11,11,0.76,1000,🟡 ATTENTION
+c56e72b7-d8e3-4b4b-ba08-d19c29a11c27,Anti cernes anti-âge instantané n°05 Brightener,13,5,1000,2026-05-11,11,0.79,1000,🟡 ATTENTION
+084bf6ef-c100-4540-9934-5efd54eb1dee,Crème glacée chocolat,15,5,1000,2026-05-11,11,0.97,1002,🟡 ATTENTION
+55d93c61-05a7-457a-8537-db3fa84d0096,Mini salami de bœuf,13,5,1000,2026-05-11,11,0.81,1001,🟡 ATTENTION
+96e0c030-37fb-43dd-8ebe-abbead6a1c3c,Yaourt à boire pêche abricot TipTop,12,5,1000,2026-05-11,11,0.66,999,🟡 ATTENTION
+5d8154a6-05ee-422e-822d-59ad4b33e1dc,Eau de javel parfumée forêt,15,5,1000,2026-05-11,11,0.96,1002,🟡 ATTENTION
+455c80f0-e6f2-431f-b1a1-45e39e5e7d00,Biscuits Chocolat Au Lait Starz Milky,14,5,1000,2026-05-11,11,0.88,1001,🟡 ATTENTION
+e4b99598-819a-4308-a5f9-146ea7ea6ad5,Biscuit Palet au beurre,12,5,1000,2026-05-11,11,0.67,999,🟡 ATTENTION
+8ebc00de-ec87-40a7-95ae-40b8b4a80f64,Fromage râpé fondant à l'emmental,13,5,1000,2026-05-11,11,0.76,1000,🟡 ATTENTION
+9bd38fd7-84e3-4a32-9422-aba01313a189,Fromage râpé spécial tajine cheddar et sicilien,13,5,1000,2026-05-11,11,0.75,1000,🟡 ATTENTION
+1bc12fbe-eac5-4cfc-8d31-784a1ca2ee92,Café arabica d'Ethiopie,14,5,1000,2026-05-11,11,0.85,1001,🟡 ATTENTION
+a144bfb9-dc28-41a5-adfe-b47f6b0542bc,Thé infusion BEAUTY à la pêche & pétales de rose,18,5,1000,2026-05-11,11,1.28,1004,🟡 ATTENTION
+b5a80aa2-5e1b-401e-9bcb-a26d566490c8,Eau minérale DENYA 1.5L,16,5,1000,2026-05-11,11,1.11,1003,🟡 ATTENTION
+1d45d0a0-4848-4cf0-a760-8478b68f8d89,Chocolat Club cappuccino,17,5,1000,2026-05-11,11,1.13,1002,🟡 ATTENTION
+e175d9d6-1159-4325-85a2-01997f94cc8b,Crème dessert chocolat,13,5,1000,2026-05-11,11,0.79,1000,🟡 ATTENTION
+ce65a3b7-2f35-4e6d-ac61-8d3bf867be57,Gaufrettes Croustina chocolat,14,5,1000,2026-05-11,11,0.92,1002,🟡 ATTENTION
+2de4601c-a77e-464c-be39-86a83e33f3a8,Boisson au jus de mangue,16,5,1000,2026-05-11,11,1.05,1002,🟡 ATTENTION
+013bebff-3c3d-4691-8458-c715a51834d7,Lait demi-écrémé U.H.T,15,5,1000,2026-05-11,11,0.96,1002,🟡 ATTENTION
+80da095d-2194-48ff-a7d1-34c50b77061a,Boisson au jus fruits blancs,15,5,1000,2026-05-11,11,0.97,1002,🟡 ATTENTION
+66819cff-29cf-48d4-94c3-ce311437251c,Muffin fourré au coulis de fraise,14,5,1000,2026-05-11,11,0.9,1001,🟡 ATTENTION
+d05ce48a-b41b-442a-af89-f98bbddec950,Cake au lait,15,5,1000,2026-05-11,11,0.99,1002,🟡 ATTENTION
+f4d659c0-4170-4bb5-9ccf-899627e9a6a0,Biscuits Chocotom chocolat noisette,14,5,1000,2026-05-11,11,0.91,1002,🟡 ATTENTION
+50f3a776-acad-47ac-9bf8-548cf72a3ae2,Préparation de glace Vanoise mix chocolat,20,5,1000,2026-05-11,11,1.44,1005,🟡 ATTENTION
+3eaf64b1-39ab-48b0-8b8e-e5d481bd5469,Blondies fourrés au caramel,14,5,1000,2026-05-11,11,0.9,1001,🟡 ATTENTION
+08b2f250-0c2f-4204-b29c-2c547e775525,Cake fourré à la crème de cacao,12,5,1000,2026-05-11,11,0.71,1000,🟡 ATTENTION
+d8aca795-58f5-48ce-b484-087dda5998bc,Riz étuvé Thailandais,13,5,1000,2026-05-11,11,0.79,1001,🟡 ATTENTION
+0caf7afc-7689-4a6b-973e-7c2b0f1646ba,Gaufrettes Crispy Minis,13,5,1000,2026-05-11,11,0.82,1001,🟡 ATTENTION
+dae94690-14a5-410a-9351-48dff353182f,Boisson au jus d'orange,13,5,1000,2026-05-11,11,0.8,1001,🟡 ATTENTION
+cf3264ab-73ff-4505-afaf-6f88dc056b8d,Boisson au jus mojito,17,5,1000,2026-05-11,11,1.14,1003,🟡 ATTENTION
+8f10af8d-8515-4fb2-a323-c0ab7ff16f63,Biscuits Creams chocolat,15,5,1000,2026-05-11,11,1.02,1003,🟡 ATTENTION
+029bb1e8-c2b1-4122-9d26-cb8f21bd966b,Crème dessert vanille,14,5,1000,2026-05-12,12,0.78,1000,🟡 ATTENTION
+9cb96cc1-8221-44fd-a8a8-6adb34a44ba1,Boisson au jus d'ananas Float,15,5,1000,2026-05-12,12,0.89,1001,🟡 ATTENTION
+aaa63611-c65d-4bf4-bacc-3762040dac01,Boisson au jus nectar tropical,19,5,1000,2026-05-12,12,1.26,1004,🟡 ATTENTION
+66eb6b88-350a-4f57-bfac-ac086b9abd5d,Gâteau Break Kids chocolat,18,5,1000,2026-05-12,12,1.2,1004,🟡 ATTENTION
+2b8203ae-835d-43aa-a3a6-436c9893e0ee,Pâte à glacer au lait,19,5,1000,2026-05-12,12,1.21,1003,🟡 ATTENTION
+fe4053ec-801c-4765-b791-ba9eb06e7adb,Double shot expresso avec du lait,15,5,1000,2026-05-12,12,0.87,1001,🟡 ATTENTION
+186c5c0b-42b2-4fcf-8658-873488be02ff,Glace stick chocolat caramel et popcorn,18,5,1000,2026-05-12,12,1.13,1003,🟡 ATTENTION
+d161c86b-c88c-428f-aad0-d0ca52336462,Boisson au jus d'orange Bravo,17,5,1000,2026-05-12,12,1.05,1002,🟡 ATTENTION
+a9152636-a73e-4901-8017-123ab8bc1dce,Boisson au jus tropical,18,5,1000,2026-05-12,12,1.13,1003,🟡 ATTENTION
+037bb8be-2d6d-46ca-b25f-b9198a628da7,Donuts fraise,13,5,1000,2026-05-12,12,0.7,1000,🟡 ATTENTION
+6df11904-ec55-49c9-84b9-ff4be8b37d9b,Gâteau Break Classic chocolat,18,5,1000,2026-05-12,12,1.2,1004,🟡 ATTENTION
+f1d0f0f3-1f7e-491b-96c2-01f65b7eeb4a,Gâteau Break Kids chocolat,19,5,1000,2026-05-12,12,1.21,1003,🟡 ATTENTION
+00dca460-31d5-4034-a7aa-485ec2d1fb37,Gâteau Break Classic vanille,16,5,1000,2026-05-12,12,0.98,1002,🟡 ATTENTION
+8f78086e-6d65-4550-8707-f1cb8c6bac5c,Boisson frappucino caramel,15,5,1000,2026-05-12,12,0.86,1001,🟡 ATTENTION
+d80c2ff3-736d-422a-b9e0-e830b0ec0d15,Cacahuètes décortiquées,13,5,1000,2026-05-12,12,0.7,1000,🟡 ATTENTION
+16dd3220-5a2e-489d-9853-272a36130c73,Fondant chocolat sans sucre,14,5,1000,2026-05-12,12,0.81,1001,🟡 ATTENTION
+4c7025e1-5fd4-4ad3-859d-e36ec2c62425,Bonbons Mini funy fruits candies,13,5,1000,2026-05-12,12,0.7,1000,🟡 ATTENTION
+62a20f88-2330-4e15-b969-b6632e903211,Eau minérale PRIMAQUA 19L,15,5,1000,2026-05-12,12,0.91,1002,🟡 ATTENTION
+53321fa4-895f-4781-b0d0-331c941ab81f,Champignons de Paris pieds & morceaux,15,5,1000,2026-05-12,12,0.86,1001,🟡 ATTENTION
+81c2303f-a383-4514-b4f0-bc0d23d67ea3,Cacahuètes enrobées au barbecue,14,5,1000,2026-05-12,12,0.78,1000,🟡 ATTENTION
+d1314d0d-7452-4996-8920-065310c2020b,Sucette au chocolat,16,5,1000,2026-05-12,12,0.95,1001,🟡 ATTENTION
+73b405ac-806b-4060-ac79-a602b7f06f2a,Boisson au Jus cocktail exotique relax,14,5,1000,2026-05-12,12,0.79,1000,🟡 ATTENTION
+5ad64e8e-939c-4ac2-bee5-2c5f429ef840,Chocolat Club cornflakes,16,5,1000,2026-05-12,12,0.95,1001,🟡 ATTENTION
+1fa9ea35-4ac6-4488-9cc9-b5bbe3b2e41f,Biscuits Hit cacao chocolat,14,5,1000,2026-05-12,12,0.78,1000,🟡 ATTENTION
+47d6774c-e60e-4c89-b28b-afe27ad8400a,Biscuits Croustina black & white,14,5,1000,2026-05-12,12,0.78,1000,🟡 ATTENTION
+5c434208-e1d2-4b5f-85cb-19d1a42ab553,Biscuits Biskrem Duo cacao,15,5,1000,2026-05-12,12,0.86,1001,🟡 ATTENTION
+5ed5f1db-496f-4d95-a61f-b20f7bf3b40c,Biscuits Gardena coconut,13,5,1000,2026-05-12,12,0.69,999,🟡 ATTENTION
+7593f268-bb27-4dcd-a9df-1d3ba11ef17a,Biscuits Pick Up chocolat,16,5,1000,2026-05-12,12,0.99,1002,🟡 ATTENTION
+a39567a4-9807-4c23-9637-7faff5ccf9ec,Biscuits aux céréales et au lait Super Extra,16,5,1000,2026-05-12,12,1.0,1002,🟡 ATTENTION
+3f273300-3f6b-472e-9027-50a84edeb4d5,Boisson au jus multifruits,17,5,1000,2026-05-12,12,1.02,1002,🟡 ATTENTION
+d5ba07e3-decc-4bd2-a527-aa8e3d413771,Beurre extra fin,13,5,1000,2026-05-12,12,0.73,1000,🟡 ATTENTION
+626d6526-d356-49e2-9ad8-97a014ae146b,Glace au chocolat,20,5,1000,2026-05-12,12,1.33,1004,🟡 ATTENTION
+c5cc2ec9-0cb1-4ff1-9661-d494eae204eb,Pâte à glacer chocolat noir,20,5,1000,2026-05-12,12,1.37,1005,🟡 ATTENTION
+df2a700e-707d-449d-8d88-695ced60cbb4,Pâte à glacer lait,19,5,1000,2026-05-12,12,1.23,1004,🟡 ATTENTION
+869bc28d-0ac8-479b-85ca-fe808f8bffb4,Crème dessert caramel,14,5,1000,2026-05-12,12,0.81,1001,🟡 ATTENTION
+26025232-43df-4f72-b468-ff34d6d04982,Aliment pour chat bouchées Gibier,14,5,1000,2026-05-12,12,0.81,1001,🟡 ATTENTION
+656bd70d-f938-424e-99ee-caac253f9acc,Cavatoni,13,5,1000,2026-05-12,12,0.71,1000,🟡 ATTENTION
+7e763a4e-b997-4ffe-8aa5-87a4b426aeae,Café Nescafé Gold,15,5,1000,2026-05-12,12,0.86,1001,🟡 ATTENTION
+699ab1c3-6de7-4fd5-8d50-49ceb0d706b4,Fromage tranche Burger cheddar,14,5,1000,2026-05-12,12,0.81,1001,🟡 ATTENTION
+a41178f9-8768-4929-b0d0-7738d39f143d,Lait stérilisé U.H.T,18,5,1000,2026-05-12,12,1.13,1003,🟡 ATTENTION
+08371b82-ebdb-4ddf-8e00-525f4d9e46b9,Eau minérale SABRINE 1.5L,15,5,1000,2026-05-12,12,0.91,1002,🟡 ATTENTION
+25003f25-e2cf-4c1a-9860-36b519fcfc3a,Gaufrettes cigare au crème de vanille,15,5,1000,2026-05-12,12,0.89,1001,🟡 ATTENTION
+c26ee586-51fb-4d1f-a8af-3477afecb813,Beurre extra fin,14,5,1000,2026-05-12,12,0.77,1000,🟡 ATTENTION
+787e1636-7df8-4c62-9953-c31611251dad,Aliment pour chat bouchées agneau,15,5,1000,2026-05-12,12,0.93,1002,🟡 ATTENTION
+c67e2980-4a8c-4764-b750-d912b8038630,Aliment pour chat au canard,12,5,1000,2026-05-12,12,0.64,1000,🟡 ATTENTION
+54ca80eb-612d-4416-bb90-56364539e32a,Eau minérale PRIMAQUA 19L,18,5,1000,2026-05-12,12,1.12,1003,🟡 ATTENTION
+862cccd1-1a8e-4a08-9a02-695cef129362,Biscuits Happy Hippo cacao,15,5,1000,2026-05-12,12,0.85,1000,🟡 ATTENTION
+945b455e-0cdb-4d98-b36a-676cbea77160,Glace en cornet caramel,20,5,1000,2026-05-12,12,1.29,1004,🟡 ATTENTION
+3ce213ec-226b-429a-a5e2-deb4a4262713,Glace familiale vanille Boules d'or,18,5,1000,2026-05-12,12,1.19,1004,🟡 ATTENTION
+69efaebd-da2e-4cf4-b5ac-dfbbf5e542ec,Lot de 2 boites de confiture fraise,14,5,1000,2026-05-12,12,0.81,1001,🟡 ATTENTION
+2557961d-8226-4ece-912b-6872d24e64dd,Glace saveur vanille,19,5,1000,2026-05-12,12,1.19,1003,🟡 ATTENTION
+e8d92a58-97f3-4260-941e-ff6cc6b95190,Baboucha,14,5,1000,2026-05-12,12,0.79,1000,🟡 ATTENTION
+667e4d4d-82da-488b-abc9-d08cbfc1ac30,Eau minérale AQUALINE 1L,14,5,1000,2026-05-12,12,0.82,1001,🟡 ATTENTION
+e32e9031-ca4e-45f2-af6c-2a0cf7cacff8,Glace aux cookies,15,5,1000,2026-05-12,12,0.91,1002,🟡 ATTENTION
+b2410f04-0f96-4a47-8a7e-40a49f783aec,Crème dessert Danette praliné aux noisettes,14,5,1000,2026-05-12,12,0.79,1000,🟡 ATTENTION
+2d0b73ab-1b45-4c49-bd4c-2f970d7061c5,Yaourt chocolat liégeois,17,5,1000,2026-05-12,12,1.06,1002,🟡 ATTENTION
+c9cd2f01-111e-4cb2-b449-674f1d446324,Yaourt brassé aux fruits mixés fraise Suprême,14,5,1000,2026-05-12,12,0.82,1001,🟡 ATTENTION
+09aaac0e-6d1c-4789-8f57-8a8ec8707b71,Glace saveur fraise,16,5,1000,2026-05-12,12,1.0,1002,🟡 ATTENTION
+3e1f2442-a5ee-4928-9e23-3d2a554c890c,Chocolat noir extra fin 72% cacao,15,5,1000,2026-05-12,12,0.92,1002,🟡 ATTENTION
+d1567302-ca03-41ad-93a2-1afeaeaeed61,Chocolat noisettes,16,5,1000,2026-05-12,12,0.98,1002,🟡 ATTENTION
+68c85f02-ea24-47e5-a07a-fbab29045851,Escargot n°2,14,5,1000,2026-05-12,12,0.8,1001,🟡 ATTENTION
+27922bc7-67ba-4265-9f82-41ab2cc66896,Biscuits 6 céréales,14,5,1000,2026-05-12,12,0.78,1000,🟡 ATTENTION
+b82dac6a-a7ed-4572-8fbc-ef847f81b7cd,Alcool de menthe pour bébé,14,5,1000,2026-05-12,12,0.82,1001,🟡 ATTENTION
+d6887e00-a30a-4402-9483-a5584fa6ad29,Yaourt aromatisé fraise,12,5,1000,2026-05-12,12,0.64,999,🟡 ATTENTION
+23a3d61c-db82-4556-804a-493b5f29351e,Haricot vert,12,5,1000,2026-05-12,12,0.64,1000,🟡 ATTENTION
+26e2191b-e837-4b02-899c-923f30cf96ce,Champignons émincés sans sel,12,5,1000,2026-05-12,12,0.62,999,🟡 ATTENTION
+5d24244b-8452-4720-ba60-4c41a10c4dc3,Eau minérale AQUALINE 1.5L,15,5,1000,2026-05-12,12,0.91,1002,🟡 ATTENTION
+c40309ef-56e4-452d-9c51-f0d1a7baf578,Biscuits cookies chocolat,14,5,1000,2026-05-12,12,0.82,1001,🟡 ATTENTION
+56b288be-47b7-46ec-8e93-6172cae42c52,Yaourt brassé aux fruits mixés pêche,13,5,1000,2026-05-12,12,0.73,1000,🟡 ATTENTION
+b621d557-0666-429c-af1b-034cd8e4b8db,Coffret assortiment de chocolats Tesoro,16,5,1000,2026-05-12,12,1.01,1002,🟡 ATTENTION
+fd7c9e35-cd7f-45ed-b568-cc211bbef20d,Chocolat au lait,15,5,1000,2026-05-12,12,0.92,1002,🟡 ATTENTION
+70c57136-e345-4674-aa55-47813caafa0d,Barre de chocolat Mars,15,5,1000,2026-05-12,12,0.87,1001,🟡 ATTENTION
+b078e33c-6f7c-45c9-8e96-d79bdf7fa414,BOGA lim,16,5,1000,2026-05-13,13,0.88,1001,🟡 ATTENTION
+53577c25-a769-4fbd-980e-1e17a81f9d45,Cacahuètes grillées et salées,15,5,1000,2026-05-13,13,0.82,1001,🟡 ATTENTION
+a0db7238-6430-4fe6-9069-1b49e7f77296,Eau minérale GARCI 1L,17,5,1000,2026-05-13,13,0.96,1001,🟡 ATTENTION
+f3b288a1-06c5-4ace-8a06-d9704243e9c4,Eau minérale MAY TUNISIA 1.5L,17,5,1000,2026-05-13,13,0.99,1002,🟡 ATTENTION
+ec4ab2a4-3ac3-47fb-99a2-0b74a44ad297,Assouplissant concentré lavande,14,5,1000,2026-05-13,13,0.72,1000,🟡 ATTENTION
+6e38787d-0857-461b-9c42-d9622b18e72f,Aliment pour chat au poisson,16,5,1000,2026-05-13,13,0.91,1002,🟡 ATTENTION
+4ede4845-2068-4a94-ab47-9f3064b8e069,Aliments pour chats Classic Kitten,14,5,1000,2026-05-13,13,0.74,1000,🟡 ATTENTION
+661e5b7d-fd75-4bd9-ba95-30ae3dae5a51,Essuie-tout blanc Fleurie,14,5,1000,2026-05-13,13,0.74,1000,🟡 ATTENTION
+07f8a44d-f244-42e7-87d0-f60766686157,Shampooing micellaire thé et thym Réveil Détox,20,5,1000,2026-05-13,13,1.19,1003,🟡 ATTENTION
+1823a216-c647-4eb8-aba4-e1e452ab2160,Glace stick Classic,18,5,1000,2026-05-13,13,1.02,1002,🟡 ATTENTION
+e6abaeca-d785-4c5b-a123-a317079f3638,Glace saveur vanille,19,5,1000,2026-05-13,13,1.1,1002,🟡 ATTENTION
+891ec885-b2a3-4386-a071-29488afaa7ff,Glace duo au pistache et noisette ICE VEGAS,20,5,1000,2026-05-13,13,1.27,1005,🟡 ATTENTION
+df9e0728-63de-4013-bf98-70c457289bfd,Glace saveur chocolat,19,5,1000,2026-05-13,13,1.1,1002,🟡 ATTENTION
+9dce3cd1-c9a3-455a-bf27-42aa5f7f2e28,Glace familiale saveur pistache,20,5,1000,2026-05-13,13,1.22,1004,🟡 ATTENTION
+c51fec68-9323-40bc-93d0-5c5c2911f671,Glace en cornet à la cacahuète,20,5,1000,2026-05-13,13,1.22,1004,🟡 ATTENTION
+56e4f48c-8daf-472d-8fe1-4c6c19861353,Café Espresso pur,16,5,1000,2026-05-13,13,0.9,1001,🟡 ATTENTION
+6c5dd79c-3fd3-4672-b3d9-adc205cba715,Préparation de glace caramel,19,5,1000,2026-05-13,13,1.11,1002,🟡 ATTENTION
+7f9e933f-ac4c-4541-99ce-bb68d8e9c3bf,Café en grain Gourmet,18,5,1000,2026-05-13,13,1.04,1002,🟡 ATTENTION
+918e80a5-63a1-433b-a063-d87c6f101c8c,Gaufrettes banane,15,5,1000,2026-05-13,13,0.83,1001,🟡 ATTENTION
+68ab9863-531f-4678-929a-76535c51fd24,Lait de toilette pour bébé Lovely Baby,18,5,1000,2026-05-13,13,1.06,1002,🟡 ATTENTION
+a8b74cee-801e-4f97-b41d-45eb16ef74cb,Aliment composé complet à la volaille,13,5,1000,2026-05-13,13,0.65,999,🟡 ATTENTION
+8de8c776-3c97-4afe-bfc9-6f58e7db0c4f,Biscuits aux céréales et au lait,16,5,1000,2026-05-13,13,0.86,1001,🟡 ATTENTION
+f6dfc53c-cefa-4baf-a036-bcc1918387ea,Glace saveur vanille,20,5,1000,2026-05-13,13,1.26,1004,🟡 ATTENTION
+80dd3e1f-14d2-489a-a6fa-90f6e467d042,Glace au noisette,17,5,1000,2026-05-13,13,1.0,1002,🟡 ATTENTION
+56f6eabb-0d79-4161-ae89-7bbd0fc5235a,Crème dessert chocolat Danette,17,5,1000,2026-05-13,13,0.98,1002,🟡 ATTENTION
+56ebd87e-10b4-47b3-b428-52b6e181273f,Glace au spéculoos,18,5,1000,2026-05-13,13,1.05,1002,🟡 ATTENTION
+d0f62f75-0b63-4e68-adf3-d24ec2fc0224,Glace familiale pistache Boules d'or,17,5,1000,2026-05-13,13,0.97,1002,🟡 ATTENTION
+c912374a-86ad-4841-a029-28f70f8ed885,Glace cône à la vanille et chocolat,20,5,1000,2026-05-13,13,1.21,1003,🟡 ATTENTION
+17303ef0-aacb-423b-a0ec-c02275059331,Glace familiale saveur vanille,19,5,1000,2026-05-13,13,1.15,1003,🟡 ATTENTION
+2e9ead9b-cb54-412c-ac7d-02f5e5a5197c,Glace caramel au pralin,18,5,1000,2026-05-13,13,1.03,1002,🟡 ATTENTION
+76a0a367-20b1-4e1f-bacf-d7da17009d89,Glace vanille IGLOO,20,5,1000,2026-05-13,13,1.26,1004,🟡 ATTENTION
+dec4e98b-2746-4a61-9e8d-78fd1eedeed0,Coffret Eau de parfum et déodorant,19,5,1000,2026-05-13,13,1.14,1003,🟡 ATTENTION
+a198bc82-1fa4-49be-b284-d61d634c50ac,Gâteau au chocolat,20,5,1000,2026-05-13,13,1.18,1003,🟡 ATTENTION
+0b18ed1d-1696-48f8-b021-b856e8cfce45,Plumcake chocolat,18,5,1000,2026-05-13,13,1.06,1002,🟡 ATTENTION
+69de6515-70ad-4f86-8f77-56966fff77de,Gâteau Tomito cacao fourré au lait,20,5,1000,2026-05-13,13,1.21,1003,🟡 ATTENTION
+c6f7c9ed-e037-426a-9046-13b58aab421d,Préparation de glace chocolat,20,5,1000,2026-05-13,13,1.21,1003,🟡 ATTENTION
+860e9e3a-505d-4d99-85b6-1f4526983882,Crème pâtissière noisettes,14,5,1000,2026-05-13,13,0.75,1000,🟡 ATTENTION
+f0436be4-e312-4aec-b17a-b7fb22b8786b,Eau de géranium,17,5,1000,2026-05-13,13,0.98,1002,🟡 ATTENTION
+812f8c8e-85b7-4e85-880d-b1e7f1c33050,Café moulu Original,18,5,1000,2026-05-13,13,1.04,1002,🟡 ATTENTION
+4ac5f9a3-b5ac-48e1-8c5d-ac1c25be4ba2,Gâteau Tomito vanille fourré au lait,20,5,1000,2026-05-13,13,1.25,1004,🟡 ATTENTION
+569cf876-4de3-433d-ac99-f59f733bf0bb,Biscuit fourré à la fraise,13,5,1000,2026-05-13,13,0.68,1000,🟡 ATTENTION
+98633fa4-7740-443a-af7b-4f72714bd79e,Biscuits D'croc tiramisu,14,5,1000,2026-05-13,13,0.75,1000,🟡 ATTENTION
+08016a80-4c81-4ea8-8ea8-6ac947f193f3,Biscuits Gardena chocolat,16,5,1000,2026-05-13,13,0.9,1001,🟡 ATTENTION
+5f914c48-b521-46c7-96d8-d69d5583ad55,Biscuits galettes aux céréales et au lait,14,5,1000,2026-05-13,13,0.76,1001,🟡 ATTENTION
+ee2f02a4-306d-41ad-a247-8767bb65e4e4,Biscuits Creams orange,15,5,1000,2026-05-13,13,0.79,1000,🟡 ATTENTION
+e9205d29-fae9-4b5f-8b58-e4d92fea29fb,Biscuits Biskrem Duo cacao,14,5,1000,2026-05-13,13,0.74,1000,🟡 ATTENTION
+3b391ecc-93f3-4ff4-b8cc-553b69e3afee,Biscuits Chocotom au lait,16,5,1000,2026-05-13,13,0.87,1001,🟡 ATTENTION
+453b6779-8cd8-4c5b-8ada-a298031feae9,Yaourt à boire granola VITALAIT,15,5,1000,2026-05-13,13,0.81,1000,🟡 ATTENTION
+c49da070-f183-497e-9fc8-ed0f0ab6c57c,Coloration cheveux permanente 7-65 bleue noir,15,5,1000,2026-05-13,13,0.79,1000,🟡 ATTENTION
+a179a8ed-c246-4fac-a3b9-9f248d83a19e,Aliment complet pour chiens,13,5,1000,2026-05-13,13,0.64,999,🟡 ATTENTION
+a1d07bc4-66a0-41dd-b1f5-374d46b1c7cc,Yaourt à boire vit'up chwingum,16,5,1000,2026-05-13,13,0.89,1001,🟡 ATTENTION
+5e73ff0a-7776-4050-9f8b-d1d5cd47dc44,Boisson au jus de raisin,17,5,1000,2026-05-13,13,1.02,1003,🟡 ATTENTION
+d702db6b-4af7-4b73-b4be-016fc60b033e,Fromage râpé à l'emmental,15,5,1000,2026-05-13,13,0.83,1001,🟡 ATTENTION
+b90e3a8e-48f4-40e0-9282-833029e60161,Crème dessert chocolat liégeois,15,5,1000,2026-05-13,13,0.81,1001,🟡 ATTENTION
+c0a0aec7-7b67-442b-a7d1-fd2c2da4cca8,Pack de yaourts brassés mixtes,13,5,1000,2026-05-13,13,0.68,1000,🟡 ATTENTION
+266d572a-1d30-4d13-ab48-25cf36fc13b9,Fromage Mozzarella 100% lait,17,5,1000,2026-05-13,13,0.97,1002,🟡 ATTENTION
+910eaf37-402c-465e-97c2-ac6003a3ccdb,Glace au chocolat caramel,19,5,1000,2026-05-13,13,1.15,1003,🟡 ATTENTION
+e90feb3a-8df6-4a14-9a0a-03f4c3aa5a1c,Glace caramel Crunch,19,5,1000,2026-05-13,13,1.13,1003,🟡 ATTENTION
+c0f368c4-ddae-40ef-bd02-39a7b2d59cda,Muffins fraise,15,5,1000,2026-05-13,13,0.82,1001,🟡 ATTENTION
+0187afae-7909-4d2c-a0bf-2bb3f69d252c,Fromage Goutta du Nord,14,5,1000,2026-05-13,13,0.74,1000,🟡 ATTENTION
+81b3c389-8978-4711-b4bd-7df88e97b780,Fromage frais à tartiner Milkana Tarti'frais,16,5,1000,2026-05-13,13,0.87,1001,🟡 ATTENTION
+bc979c90-908d-414b-bd53-d163f8a90662,Lot de 2 sachets de pommes chips paprika,15,5,1000,2026-05-13,13,0.84,1001,🟡 ATTENTION
+fa017fbf-ca39-4d47-9a4c-4cb6593b7444,Biscuits Biskrem cacao,14,5,1000,2026-05-13,13,0.71,1000,🟡 ATTENTION
+cad99e2e-8eba-46d8-9c57-f3182647df01,Gaufrettes cigare au lait,18,5,1000,2026-05-13,13,1.02,1002,🟡 ATTENTION
+d24ee69f-ff42-493f-99a7-79e85cfd0d20,Gaufrette enrobée aux noisettes Crisponuts,14,5,1000,2026-05-13,13,0.71,1000,🟡 ATTENTION
+cfa1264c-5dd1-4e06-b3d6-bdc0e5886613,Chocolat Passion lait noisettes,16,5,1000,2026-05-13,13,0.91,1002,🟡 ATTENTION
+b06d9b85-d749-43d8-a7aa-1fd4b8afa49d,Chocolat tris lait,19,5,1000,2026-05-13,13,1.18,1004,🟡 ATTENTION
+4ce8b13e-97a3-4ec8-90f8-8623da2a9a43,Yaourt bif 0 % aux morceaux de fruits,17,5,1000,2026-05-13,13,1.0,1002,🟡 ATTENTION
+870f7ae0-a99f-4391-b0d0-0b9d9f8e0ebb,Caramel au lait,19,5,1000,2026-05-13,13,1.18,1004,🟡 ATTENTION
+7154c1f8-cd87-4024-9720-d7d4631d7db9,Double shot expresso avec du lait et sans sucre,16,5,1000,2026-05-13,13,0.89,1001,🟡 ATTENTION
+180c47c0-fbf4-4161-889d-243cb86d4bb7,Yaourt aux morceaux  d'ananas,17,5,1000,2026-05-13,13,0.95,1001,🟡 ATTENTION
+749bf875-ebd3-4d31-9d00-fcf893531c94,Cacahuètes double crunch peanuts,14,5,1000,2026-05-13,13,0.75,1000,🟡 ATTENTION
+d20c8fbf-ba3b-43cb-92d2-560be0d76025,Boisson au jus de mangue,18,5,1000,2026-05-13,13,1.05,1002,🟡 ATTENTION
+6a549632-c153-4c35-ae42-57e4757a80d3,Boisson au jus de pêche,19,5,1000,2026-05-13,13,1.14,1003,🟡 ATTENTION
+ce238622-679e-4000-ae33-a381a5773196,Biscuits Lady fingers Savoiardi,14,5,1000,2026-05-13,13,0.72,1000,🟡 ATTENTION
+ca0917ce-9293-4578-b78a-7a0f0d076c15,Boisson au jus de mangue STIL,15,5,1000,2026-05-13,13,0.85,1001,🟡 ATTENTION
+898897fb-4202-4401-89fc-fedf5ac7254b,Biscuits D'croc chocolat,16,5,1000,2026-05-13,13,0.92,1002,🟡 ATTENTION
+e04ba62a-aa2b-428f-b25a-e263c5ca677c,Bonbons au cocktail de fruits,15,5,1000,2026-05-13,13,0.79,1000,🟡 ATTENTION
+925ad487-b93c-4d82-9b48-d669db01c4cc,Gâteau Break Kids vanille,18,5,1000,2026-05-13,13,1.04,1002,🟡 ATTENTION
+ee639da2-da0f-4398-814c-9c0e70891fd1,Crème de douche au lait d'amande douce,18,5,1000,2026-05-13,13,1.04,1002,🟡 ATTENTION
+647d0efd-e2ae-429a-835f-f85384f01bc4,Belsamic sauce,13,5,1000,2026-05-13,13,0.67,1000,🟡 ATTENTION
+61d6d4aa-0d41-4554-bc3f-9baf76a08527,Fromage fondu Le Cuistot à la crème,14,5,1000,2026-05-13,13,0.71,1000,🟡 ATTENTION
+5f6de921-9b05-4552-8414-d339ba502a43,Glace familiale saveur fraise,19,5,1000,2026-05-13,13,1.14,1003,🟡 ATTENTION
+a03e8138-906f-430f-9c8e-f4a0bb1f2eeb,Biscuits D'croc cappuccino,14,5,1000,2026-05-13,13,0.74,1000,🟡 ATTENTION
+eb14d568-cacd-4875-b650-95a6e8b512bd,Boisson au jus de grenade,16,5,1000,2026-05-13,13,0.89,1001,🟡 ATTENTION
+b0635b70-f818-403c-ae7c-b84cb8dec4a2,Biscuits Gardena chocolat au lait et noisette,16,5,1000,2026-05-13,13,0.93,1002,🟡 ATTENTION
+5d4eade6-e582-4dd9-97f6-672bca1d0e1b,Boisson au jus à la mangue Float,18,5,1000,2026-05-13,13,1.07,1003,🟡 ATTENTION
+e1d4f179-92b1-4618-8fa5-7e78ceb27ba6,Boisson au jus d'orange sanguine,16,5,1000,2026-05-13,13,0.88,1001,🟡 ATTENTION
+cce50306-ad0c-4e11-bfb7-9e42558ad886,Boisson au jus de fraise Fruzzy,18,5,1000,2026-05-13,13,1.04,1002,🟡 ATTENTION
+8532e58b-8410-49b2-9014-3578d55d2714,Pomme chips chili & citron,15,5,1000,2026-05-13,13,0.8,1000,🟡 ATTENTION
+64b098ba-302c-42cf-a701-39e230606dcf,Boisson au jus multi-vitaminée,18,5,1000,2026-05-13,13,1.09,1003,🟡 ATTENTION
+cee41cbf-ea74-4fd2-8e4e-1e373d28a3a0,Boisson au jus d'orange Fruzzy,17,5,1000,2026-05-13,13,1.0,1002,🟡 ATTENTION
+f65f8d27-018e-4a7b-a481-288fe9696f62,Jus multi-vitaminé nectar 5 fruits 6 vitamines,18,5,1000,2026-05-13,13,1.03,1002,🟡 ATTENTION
+081daece-b2f6-4f7f-9aae-5d6569b17728,Boisson au jus de banane et fraise,18,5,1000,2026-05-13,13,1.07,1003,🟡 ATTENTION
+ffb7f662-44ba-4a0e-988d-d945ecd74fb5,Après Shampooing souplesse à l'huile de ricin,14,5,1000,2026-05-13,13,0.72,1000,🟡 ATTENTION
+507672d7-e24f-4749-a368-1f1914a4d586,Baume à lèvres vanille,18,5,1000,2026-05-13,13,1.09,1003,🟡 ATTENTION
+b890cb15-e78f-47d9-a383-08c6e06a8c17,Lait Délisso banane,14,5,1000,2026-05-13,13,0.72,1000,🟡 ATTENTION
+460e1f58-7d39-4d2c-b6a2-0ced54f62352,Boisson au jus nectar multivitaminée,17,5,1000,2026-05-13,13,0.96,1002,🟡 ATTENTION
+5ca4c70a-665c-413e-bb11-0a3d22d2aa96,Chocolat au lait Les Classiques,16,5,1000,2026-05-13,13,0.93,1002,🟡 ATTENTION
+dcda9b1b-d267-491e-93dc-acb2a8563ce2,Dentifrice anti caries Fresh Mint,18,5,1000,2026-05-13,13,1.03,1002,🟡 ATTENTION
+d1bde565-92a5-483e-a804-8c20f2d37b70,Coude n°2,14,5,1000,2026-05-13,13,0.73,1000,🟡 ATTENTION
+45778517-c9ba-4146-8387-0abeda3a3249,Brownie fondant,16,5,1000,2026-05-13,13,0.9,1001,🟡 ATTENTION
+1978e3d2-2bc6-4417-8665-b1997e64008a,Boisson lactée Danao pêche abricot,14,5,1000,2026-05-13,13,0.74,1000,🟡 ATTENTION
+3d442c22-e5e0-43ff-ac09-cefa816bb8db,Yaourt brassé mamzouj citron vert,16,5,1000,2026-05-13,13,0.91,1001,🟡 ATTENTION
+488884ed-d0d0-4782-bfe3-1e787388b373,Dentifrice white now,20,5,1000,2026-05-14,14,1.11,1003,🟡 ATTENTION
+78a9776c-9bf6-4622-a69a-0a637af6e649,Dentifrice Optic White Extra Power,20,5,1000,2026-05-14,14,1.13,1003,🟡 ATTENTION
+b5f5065e-36e9-4495-a22e-f62ea3ce60ed,Dentifrice Triple Action,20,5,1000,2026-05-14,14,1.11,1003,🟡 ATTENTION
+e9ec7e97-d2fe-4f54-9857-4e321a34c2dc,Dentifirice Soin Gel Fraicheur Intense,20,5,1000,2026-05-14,14,1.13,1003,🟡 ATTENTION
+925e5b76-66e8-4e1f-857e-08f46a6960cf,Crème pieds peaux sèches,19,5,1000,2026-05-14,14,1.06,1002,🟡 ATTENTION
+bc150ef8-c006-40ad-a535-1c3675b01391,Chips au fromage,14,5,1000,2026-05-14,14,0.66,999,🟡 ATTENTION
+dc5c540d-d9f8-4969-acf6-1bb9271be064,Eau de parfum Moncaco madame,20,5,1000,2026-05-14,14,1.15,1003,🟡 ATTENTION
+711e8935-ca91-4782-a8db-71b39dfe62ee,Dentfirice advanced charcoal Colgate,19,5,1000,2026-05-14,14,1.02,1002,🟡 ATTENTION
+91bd9179-694d-4d5c-8f48-092b42e90f81,"Thé infustion SLEEP camomille , miel et lavande",18,5,1000,2026-05-14,14,0.97,1002,🟡 ATTENTION
+d9814478-0709-4ccc-b6e4-d33450caac66,Après shampooing Anti Hair fall,15,5,1000,2026-05-14,14,0.73,1000,🟡 ATTENTION
+1a8f8da8-2a9e-4769-bd9f-c51612b4c3f2,Champignons pieds et morceaux,20,5,1000,2026-05-14,14,1.12,1003,🟡 ATTENTION
+316ca95c-edd7-406d-b681-b1ef5d5ab339,Champignon pieds et morceaux,16,5,1000,2026-05-14,14,0.84,1001,🟡 ATTENTION
+828afa37-bbbe-418c-9416-2b0b6191535a,Champignon pieds et morceaux,18,5,1000,2026-05-14,14,0.98,1002,🟡 ATTENTION
+9bc801ac-7da0-4ac6-9c37-d715b48b72fd,Boutargue de thon,15,5,1000,2026-05-14,14,0.77,1000,🟡 ATTENTION
+6fd04800-af68-4fd6-8f98-87767a809a8f,Eau minérale PRISTINE 2L,17,5,1000,2026-05-14,14,0.93,1002,🟡 ATTENTION
+96665b98-2eb0-413c-8bbf-e4e5d2d58c39,Bloc WC eau bleue,20,5,1000,2026-05-14,14,1.11,1003,🟡 ATTENTION
+81229392-ec18-4553-b87b-eef13ea46cef,Bloc chasse d'eau - Eau bleu,19,5,1000,2026-05-14,14,1.04,1002,🟡 ATTENTION
+9084b3ad-83c0-4adc-80a9-00e396584d27,Ice tea citron,18,5,1000,2026-05-14,14,0.96,1001,🟡 ATTENTION
+b5dc1adb-ac2b-4b91-9bc6-90773ad7d593,FANTA orange,20,5,1000,2026-05-14,14,1.09,1002,🟡 ATTENTION
+f340032f-c4e6-437d-8530-f1f4e8184b23,FANTA citron,19,5,1000,2026-05-14,14,1.02,1002,🟡 ATTENTION
+20e75581-3604-41bf-995d-f9a944faa89f,Penne mini,15,5,1000,2026-05-14,14,0.73,1000,🟡 ATTENTION
+1c3a8a45-2078-4a82-8119-d38f75acc40f,Artichauts marinés,16,5,1000,2026-05-14,14,0.84,1001,🟡 ATTENTION
+381ec527-33f7-4b17-8ddd-0c9a16061a90,Bacon Boeuf,15,5,1000,2026-05-14,14,0.74,1000,🟡 ATTENTION
+d013d9e9-9c4e-4e4d-98b0-db3ae16d621a,Boisson au jus nectar d'orange,20,5,1000,2026-05-14,14,1.17,1004,🟡 ATTENTION
+9dea9b7b-0017-4a3c-88dc-aca60015c9bb,Galettes aux beurre et sésames,14,5,1000,2026-05-14,14,0.7,1000,🟡 ATTENTION
+926e0758-6eb3-4e4a-8d3a-ed2df2e612d4,Gaufrettes fourrées au chocolat Gofd'or,17,5,1000,2026-05-14,14,0.9,1001,🟡 ATTENTION
+5ae867a2-e2e6-4ce3-ae93-8e6fcecac171,Gaufrettes cigare noisette,15,5,1000,2026-05-14,14,0.74,1000,🟡 ATTENTION
+a7ac795d-2c92-4819-bcd3-adb069d89bd6,Gaufrettes vanille,19,5,1000,2026-05-14,14,1.06,1002,🟡 ATTENTION
+0380e215-57ea-448c-b8c3-d04ced091652,Biscuits Smile au lait et chocolat,20,5,1000,2026-05-14,14,1.16,1004,🟡 ATTENTION
+8a30a353-0c1f-4197-882b-026034c8c96d,Gaufrettes Croustina cacao vanille,20,5,1000,2026-05-14,14,1.16,1004,🟡 ATTENTION
+369a84e2-c1f9-43d4-b0dc-3c54f4d39383,Cannelloni,16,5,1000,2026-05-14,14,0.85,1001,🟡 ATTENTION
+18ae8b5e-ed8c-425d-ba57-de76f0023acf,Biscuits Binto enrobés au chocolat,15,5,1000,2026-05-14,14,0.73,1000,🟡 ATTENTION
+943d6a90-6267-4cc3-9cb4-a6118fb6db34,Bonbons Sour pencils,15,5,1000,2026-05-14,14,0.73,1000,🟡 ATTENTION
+d52cd0dd-3032-44dc-aa64-0839416e048d,Biscuits Chocotom vanille,17,5,1000,2026-05-14,14,0.89,1001,🟡 ATTENTION
+9c8b39fd-644c-4fba-b267-a56537d79cff,Fromage Goutta du Nord,15,5,1000,2026-05-14,14,0.77,1000,🟡 ATTENTION
+71ac14c2-c093-4e88-ad4b-63cba3619f7b,Préparation de cookies vanille,18,5,1000,2026-05-14,14,0.97,1002,🟡 ATTENTION
+eb581e94-260a-4826-af14-e2e263c40260,Biscuits Maxon fourrés vanille,16,5,1000,2026-05-14,14,0.81,1000,🟡 ATTENTION
+0cc5194f-0c62-40af-9525-178158a7b19f,Gaufrettes Croustina noisettes,15,5,1000,2026-05-14,14,0.75,1000,🟡 ATTENTION
+340cf484-0f44-4f87-98df-87693d76816b,Vermicelle,17,5,1000,2026-05-14,14,0.9,1001,🟡 ATTENTION
+37b4b2e4-cfac-4131-a2c2-db088c915b47,Biscuits feuilletés Roll Break au lait,20,5,1000,2026-05-14,14,1.1,1002,🟡 ATTENTION
+d39d8fc4-4761-4e1e-b544-ad41beddcf42,Café soluble Nescafé Classic,17,5,1000,2026-05-14,14,0.91,1001,🟡 ATTENTION
+bbecfff4-d6fb-4046-90f4-775b9757f8d7,Cake saveur vanille,16,5,1000,2026-05-14,14,0.8,1000,🟡 ATTENTION
+bacc515b-676d-439a-8032-a9414714f247,Donuts enrobés & fourrés à la crème de vanille,16,5,1000,2026-05-14,14,0.8,1000,🟡 ATTENTION
+cdf2620a-0f06-4698-97e8-927d891c774d,Cake au cacao buongiorno,15,5,1000,2026-05-14,14,0.78,1001,🟡 ATTENTION
+97b0e9b1-3704-456b-8c87-4243aa2ecdb1,Glace cornet chocolat vanille,20,5,1000,2026-05-14,14,1.11,1003,🟡 ATTENTION
+1d1bafdb-7a39-4248-8a3f-c904b6348f11,Glace cornet chocolat noisette,20,5,1000,2026-05-14,14,1.17,1004,🟡 ATTENTION
+242d59a2-6137-4a90-9c0e-714484579875,Glace familiale chocolat Boules d'or,20,5,1000,2026-05-14,14,1.1,1002,🟡 ATTENTION
+5e0145b5-eebc-4e15-983b-d6339063a572,Glace vanille,20,5,1000,2026-05-14,14,1.14,1003,🟡 ATTENTION
+d82ab429-3a87-4818-8627-7c881fc7adef,Glace chocolat liégeois,20,5,1000,2026-05-14,14,1.09,1002,🟡 ATTENTION
+2402e16d-e1da-4170-aec0-cba45ab6ec1d,Glace caramel Low Calories,20,5,1000,2026-05-14,14,1.12,1003,🟡 ATTENTION
+a2314bb0-34a7-4dbd-9360-fa21a082cb8a,Glace yoghurt Ice Cream mango,20,5,1000,2026-05-14,14,1.1,1002,🟡 ATTENTION
+dadcb9e2-d6b0-4f73-beb7-0ec54353197b,Assouplissant concentré lavande,16,5,1000,2026-05-14,14,0.83,1001,🟡 ATTENTION
+16538c83-b1d9-48b9-ba54-f377e186019a,Amidon de maïs,14,5,1000,2026-05-14,14,0.67,999,🟡 ATTENTION
+7c3758cc-3ff4-4cef-9840-e97251946f80,Préparation de chocolat chaud caramel,19,5,1000,2026-05-14,14,1.07,1003,🟡 ATTENTION
+17286e6b-7c26-469a-88c7-78c42856e557,Pommes chips au fromage,14,5,1000,2026-05-14,14,0.69,1000,🟡 ATTENTION
+745afa2d-4208-493b-a87c-f27b69f26b41,Sucre glace,16,5,1000,2026-05-14,14,0.82,1001,🟡 ATTENTION
+a667c42d-ca34-4c48-a5c9-0fa5c8473c14,Préparation de crème chantilly chocolat,19,5,1000,2026-05-14,14,1.04,1002,🟡 ATTENTION
+8323c336-d007-428f-ab61-771bf40ca118,Dentifrice dent de lait 2-6 ans,20,5,1000,2026-05-14,14,1.16,1004,🟡 ATTENTION
+6345d0cd-af0b-48de-b148-afbdfc6df1d2,Couches bébé nouveau né taille 2 3-6Kg,20,5,1000,2026-05-14,14,1.14,1003,🟡 ATTENTION
+4a97f7ca-1d6f-4fec-b81c-443e5f1d83b8,Glace saveur fraise,19,5,1000,2026-05-14,14,1.08,1003,🟡 ATTENTION
+641aaefd-8b5d-4f20-a89d-e10d60b3bf1d,Glace Coconutello,18,5,1000,2026-05-14,14,1.01,1002,🟡 ATTENTION
+62c5a85b-6d0d-4d4d-8e2f-f6762b4e89a6,Glace à la pistache OLA,20,5,1000,2026-05-14,14,1.11,1003,🟡 ATTENTION
+16bd90cd-c3d6-46e7-a566-245c8517f102,Glace cône à la vanille et fraise,20,5,1000,2026-05-14,14,1.16,1004,🟡 ATTENTION
+ad630a4c-a046-465a-9cb7-ccb6f82ef52e,Déodorant parfumant Ice Dive,20,5,1000,2026-05-14,14,1.1,1002,🟡 ATTENTION
+c9694bac-4311-439b-ac49-dab7854376f5,Coton-tiges Lovely Baby,14,5,1000,2026-05-14,14,0.66,999,🟡 ATTENTION
+380106df-856d-43d6-a7e4-f8f2342e2d85,Déodorant peaux sensibles,20,5,1000,2026-05-14,14,1.11,1003,🟡 ATTENTION
+f9ff2303-26ad-43df-89fd-125d6b62c98b,Assouplissant bébé,13,5,1000,2026-05-14,14,0.61,999,🟡 ATTENTION
+d08567d6-2f53-4824-9c18-ee29316bb7fc,Punch lime,19,5,1000,2026-05-14,14,1.04,1002,🟡 ATTENTION
+275e3291-ded2-4646-829f-49a81afdabce,FANTA pomme,20,5,1000,2026-05-14,14,1.09,1002,🟡 ATTENTION
+579a6b3b-037a-4055-9036-7f821865bbee,Thé infusion à la camomille Garden Fresh,19,5,1000,2026-05-14,14,1.08,1003,🟡 ATTENTION
+988214eb-8add-4b2e-b341-60dd762a4c56,Thé  vert au citron gingembre & miel infusion,19,5,1000,2026-05-14,14,1.03,1002,🟡 ATTENTION
+59722d89-9ab9-484b-99af-f95d2c95717b,Café soluble Ricoré,20,5,1000,2026-05-14,14,1.16,1004,🟡 ATTENTION
+13077820-08d7-40ce-9250-59187c283672,Glace en cornet chocolat,20,5,1000,2026-05-14,14,1.15,1003,🟡 ATTENTION
+8b8f98b6-6d92-4774-bef1-3fbd18c86736,Glace Birthday Cake,20,5,1000,2026-05-14,14,1.17,1004,🟡 ATTENTION
+0b3356ba-18a5-4207-9e86-711c0eeade81,Café soluble Délice,20,5,1000,2026-05-14,14,1.12,1003,🟡 ATTENTION
+c62f2af2-4c4f-47e6-9e21-cb470196338f,Glace au chocolat OLA,19,5,1000,2026-05-14,14,1.08,1003,🟡 ATTENTION
+ef77133f-b1f4-4fb4-8c8c-4960eed16ae0,Eau minérale FOURAT 2L,18,5,1000,2026-05-14,14,0.96,1001,🟡 ATTENTION
+a72ed447-ef6e-40c9-8a96-1ccad23b1a10,Eau minérale JANNET 2L,17,5,1000,2026-05-14,14,0.93,1002,🟡 ATTENTION
+270bb8a1-d0bb-411a-acce-64a27b9b75b8,Café soluble 2en1,18,5,1000,2026-05-14,14,0.99,1002,🟡 ATTENTION
+a978a89c-6a3e-4866-9569-21528e3bfa33,Café soluble Nescafé Classic,18,5,1000,2026-05-14,14,0.97,1002,🟡 ATTENTION
+f4114e97-7674-4ea3-b8b6-725ca0c3e151,Glace stick belgian chocolaté,20,5,1000,2026-05-14,14,1.13,1003,🟡 ATTENTION
+ea954495-65fe-465d-b0be-1d582ee4027b,Chorba d'orge frais bio,16,5,1000,2026-05-14,14,0.84,1001,🟡 ATTENTION
+6899ea76-1921-4a38-af8b-9f2bbebf119f,Yaourt à boire Danup  vanille pêche & framboise,19,5,1000,2026-05-14,14,1.03,1002,🟡 ATTENTION
+21e703ff-f674-4e2b-9808-5bd72080a623,Capsules de café pur raffiné,20,5,1000,2026-05-14,14,1.1,1002,🟡 ATTENTION
+8ffed5d0-5b16-4e2f-994e-f490bfd9a9b1,Lot de 2 sachets chips au paprika Crokido,16,5,1000,2026-05-14,14,0.83,1001,🟡 ATTENTION
+9e887b25-9b3e-4282-970f-a3b4af9bfbe1,Lot de 2 sachets de pommes chips fromage,15,5,1000,2026-05-14,14,0.73,1000,🟡 ATTENTION
+29bc1fde-d02e-4463-b387-2727f559198e,Palets au beurre et pépites de chocolats,19,5,1000,2026-05-14,14,1.05,1002,🟡 ATTENTION
+accd49bf-c57e-42c7-8606-ae205c8be6bc,Biscuits cookies aux pépites de chocolat,18,5,1000,2026-05-14,14,0.96,1001,🟡 ATTENTION
+19c23d19-a846-4078-bea8-6afaab304ea3,Coude n°1,16,5,1000,2026-05-14,14,0.81,1000,🟡 ATTENTION
+e20568f9-f9bd-4676-baa5-37e0476ccc03,Chocolat au lait – Sensations Lait,19,5,1000,2026-05-14,14,1.03,1002,🟡 ATTENTION
+ad967811-0a16-4639-92dc-828284085830,Chocolat mousse caramel,20,5,1000,2026-05-14,14,1.15,1003,🟡 ATTENTION
+db819a88-1c6f-4161-bb34-930e25b3d221,"Lait fermenté ""Leben""",17,5,1000,2026-05-14,14,0.93,1002,🟡 ATTENTION
+9f69a055-3b9f-445d-9605-c9363b05b0cf,Chocolat aux noisettes Les Classiques,17,5,1000,2026-05-14,14,0.91,1001,🟡 ATTENTION
+aad61c1b-1963-4958-b1f7-9386a08220dc,Cire coiffante Ice Wax,20,5,1000,2026-05-14,14,1.13,1003,🟡 ATTENTION
+8ebbe377-4e10-460e-9e99-e97b34fda878,Nouasser,16,5,1000,2026-05-14,14,0.81,1000,🟡 ATTENTION
+da2ea606-ed9f-4bfe-9867-c9a57a919dff,Lait Délisso fraise,18,5,1000,2026-05-14,14,0.96,1001,🟡 ATTENTION
+ae8de7ab-6f8d-4a7a-a427-572fddf83418,Flamengo,14,5,1000,2026-05-14,14,0.7,1000,🟡 ATTENTION
+e40c8be7-95da-475c-a250-6823d65116b5,Éponge de bain,16,5,1000,2026-05-14,14,0.8,1000,🟡 ATTENTION
+1296af71-ae80-45fd-b246-b957c7bfc851,Cookies aux pépites de chocolat,15,5,1000,2026-05-14,14,0.77,1000,🟡 ATTENTION
+7eca41e1-0757-4ce2-b2f3-8f5c7f2c3ef3,Boisson au jus de pomme verte,17,5,1000,2026-05-14,14,0.9,1001,🟡 ATTENTION
+3c0a17fe-3790-4202-8410-f2bf27146ad7,Coude n°3,14,5,1000,2026-05-14,14,0.68,1000,🟡 ATTENTION
+f604e4ea-e7fc-454b-9a99-bd825fdfaf92,Yaourt aromatisé fruits des bois,15,5,1000,2026-05-14,14,0.74,1000,🟡 ATTENTION
+4a1d4fc9-7772-442f-bc38-65c3baa3db3b,Yaourt à la grecque citron Grecos,15,5,1000,2026-05-14,14,0.78,1001,🟡 ATTENTION
+d019631c-90f2-4d28-942c-89cf09adb14c,Boisson lactée fraise Laitgo,16,5,1000,2026-05-14,14,0.86,1001,🟡 ATTENTION
+ae2dca5b-ac6b-4295-ad7b-c7fe73d3e29b,Yaourt à boire Danup vanille,19,5,1000,2026-05-14,14,1.02,1002,🟡 ATTENTION
+cbae188f-5126-4a84-9ba6-41c4c90b180b,Fromage Goutta du Nord,14,5,1000,2026-05-14,14,0.66,999,🟡 ATTENTION
+a39418be-bde0-49fa-bdd6-404b65d7f5a4,Salami de bœuf traditionnel,13,5,1000,2026-05-14,14,0.6,999,🟡 ATTENTION
+64c0d48c-47e5-4a08-8621-ba2a5c656300,"Lait caillé ""Raieb""",17,5,1000,2026-05-14,14,0.89,1001,🟡 ATTENTION
+e20f9e54-2c03-4fb2-bdfb-799ff06f8868,Coffret de chocolat Tesoro,17,5,1000,2026-05-14,14,0.93,1002,🟡 ATTENTION
+2b8c8988-40cc-40ce-b2ef-7d0d92adce7b,Aliments composés  thon saumon pour chat,15,5,1000,2026-05-14,14,0.78,1001,🟡 ATTENTION
+9b494c21-43b1-4d72-a039-d7051a187cee,Glace au chocolat en cornet,18,5,1000,2026-05-14,14,1.0,1002,🟡 ATTENTION
+37c5bd34-350f-4d27-b631-8794e9a806fc,Fromage râpé fondant à l'emmental,15,5,1000,2026-05-14,14,0.73,1000,🟡 ATTENTION
+fc191ee7-62fe-4033-986c-7941b7221520,Aliment pour chat au bœuf,15,5,1000,2026-05-14,14,0.76,1000,🟡 ATTENTION
+6329f932-5e38-40a2-a747-6ce1d6c4fac8,Yaourt à boire Danup vanille,17,5,1000,2026-05-14,14,0.91,1001,🟡 ATTENTION
+e4d8f136-941f-430d-b376-681714b0d329,Glace caramel Crunch,18,5,1000,2026-05-14,14,1.01,1002,🟡 ATTENTION
+9199aa8f-1dd6-4e55-989c-2692f189297a,Fromage Gouda,15,5,1000,2026-05-14,14,0.76,1000,🟡 ATTENTION
+780c54bc-4e86-427d-b8b4-1ec0fafdd8e4,Fromage râpé fondant à l'emmental,14,5,1000,2026-05-14,14,0.7,1000,🟡 ATTENTION
+3990fbcb-e5c9-4e5c-8a9d-dbee7821e393,Yaourt à boire Danao pêche abricot,16,5,1000,2026-05-14,14,0.8,1000,🟡 ATTENTION
+ec7215f6-afa3-4a0a-9027-b645997c2bad,Sucettes,17,5,1000,2026-05-14,14,0.89,1001,🟡 ATTENTION
+f9e88c8d-d116-4e59-b238-c7048dda2941,Chocolat au lait,19,5,1000,2026-05-14,14,1.08,1003,🟡 ATTENTION
+28c521ee-84b0-4cc4-b3de-0e44631e8e8e,Boisson au jus orange,15,5,1000,2026-05-14,14,0.73,1000,🟡 ATTENTION
+bfd0dbe2-8b70-4899-8d3b-57a67a80e22f,Jus de grenade,19,5,1000,2026-05-14,14,1.02,1002,🟡 ATTENTION
+2170a413-e67c-4f7e-8397-e3b047576a4f,Yaourt brassé vanille,19,5,1000,2026-05-14,14,1.03,1002,🟡 ATTENTION
+5a90dca2-7d9b-4203-8127-0f3efb3fe430,Biscuits D'croc noisette,15,5,1000,2026-05-14,14,0.74,1000,🟡 ATTENTION
+fca5274a-7090-41bb-8dab-4d98bac24639,Funkiz Donuts,14,5,1000,2026-05-14,14,0.69,1000,🟡 ATTENTION
+0cb48f2f-b9a8-4b43-b4d7-3e6877897a04,Lot de mini glaces sticks mixtes,18,5,1000,2026-05-14,14,0.98,1002,🟡 ATTENTION
+5595e0f3-8199-4148-88fc-6121cf5a0f17,Mélange de fruits secs,13,5,1000,2026-05-14,14,0.61,999,🟡 ATTENTION
+75df07a0-3afd-43ef-a1a8-e33b0f32c66e,Chocolat Club caramel,16,5,1000,2026-05-14,14,0.82,1001,🟡 ATTENTION
+0e0cc3b7-ad43-4255-90e1-42dc7881534c,Petits pois et carottes très fins,14,5,1000,2026-05-14,14,0.69,1000,🟡 ATTENTION
+59fddc6c-d9e1-4f64-bf9d-ee55650d4cfd,Chocolat au lait Alpine,19,5,1000,2026-05-14,14,1.03,1002,🟡 ATTENTION
+df6d9699-7a80-4934-9a8e-9e23b697ee4c,Rochers chocolat Rafaello,18,5,1000,2026-05-14,14,1.0,1002,🟡 ATTENTION
+449a4c92-3fc4-4f0f-acf2-0e351dfe7738,Tablettes de chocolat aux noisettes 90g,18,5,1000,2026-05-14,14,1.02,1003,🟡 ATTENTION
+3eb46a3b-a4d4-461a-a657-e7bfbfdeb209,Coffret chocolat truffle,20,5,1000,2026-05-14,14,1.16,1004,🟡 ATTENTION
+9d1aab3f-a3cb-4a18-9162-e4ffe0f6f699,Chocolat Belge coquillages café,20,5,1000,2026-05-14,14,1.11,1003,🟡 ATTENTION
+49fcf13a-c623-4f62-9c31-89970b2fd02d,Coffret de chocolat Noir Witor's,20,5,1000,2026-05-14,14,1.1,1002,🟡 ATTENTION
+ba694a9f-485d-409f-8465-cf4291609f97,Gâteau Break Kids vanille,18,5,1000,2026-05-14,14,1.01,1002,🟡 ATTENTION
+798e5415-cf82-43d8-ac6d-04c93294919e,Café soluble Nescafé Gold,18,5,1000,2026-05-14,14,0.95,1001,🟡 ATTENTION
+45759e17-1f34-40f9-9821-bae33cc20a24,Chocolat  au lait,18,5,1000,2026-05-14,14,0.96,1002,🟡 ATTENTION
+0cdceb95-a420-492c-9589-ed08c31b72db,Yaourt à boire saveur granola,14,5,1000,2026-05-14,14,0.67,999,🟡 ATTENTION
+798f9aca-a234-41e3-a8c1-0c9515ca8e92,Boisson au jus pomme,19,5,1000,2026-05-14,14,1.08,1003,🟡 ATTENTION
+f5809883-c72b-4e25-b9d6-5070a6f91595,Boisson au jus d'orange Fruzzy,18,5,1000,2026-05-14,14,0.96,1001,🟡 ATTENTION
+54f74bd0-5dd4-43df-a5c0-8a28ab75929d,Boisson au jus de pêche Float,19,5,1000,2026-05-14,14,1.05,1002,🟡 ATTENTION
+230792db-c021-49d4-8bfc-df17a5eed3b2,Boisson au jus de mangue,18,5,1000,2026-05-14,14,0.96,1002,🟡 ATTENTION
+087b16bd-c31b-4642-8273-2e02e7670f9e,Boisson au jus orange,18,5,1000,2026-05-14,14,0.97,1002,🟡 ATTENTION
+814233de-5558-48fb-8ea4-f5663673dba5,Boisson frappucino coffee,14,5,1000,2026-05-14,14,0.7,1000,🟡 ATTENTION
+4ff3ea9c-ee18-4bbd-8262-b5393d3c9d1e,Bonbons aux fruits rouge,15,5,1000,2026-05-14,14,0.77,1001,🟡 ATTENTION
+1aeb1d48-f3b6-4695-852b-f04fa100773e,Boisson au jus de poire,19,5,1000,2026-05-14,14,1.05,1002,🟡 ATTENTION
+df87cdc0-c9b4-4c79-9941-3db486d32733,Jus de pêche 100% naturel,20,5,1000,2026-05-14,14,1.13,1003,🟡 ATTENTION
+10339fef-2d22-4299-a5f1-e245aeba03c7,Eau minérale JEKTISS 1L,20,5,1000,2026-05-14,14,1.15,1003,🟡 ATTENTION
